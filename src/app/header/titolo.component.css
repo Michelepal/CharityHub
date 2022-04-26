@@ -1,0 +1,14 @@
+.titolo {
+    line-height: 0.8;
+}
+
+.titolo p {
+    font-size: 13px;
+    letter-spacing: 0.2px;
+    font-weight: 400;
+}
+
+.titolo h2 {
+    font-size: 28px;
+    font-weight: 600;
+}

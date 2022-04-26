@@ -1,0 +1,104 @@
+/* css*/
+
+.ultimeStorie {
+  height: 99vh;
+  max-width: auto;
+  margin-top: 10px;
+}
+
+/* The grid container */
+.grid-container {
+  display: grid;
+  grid-template-areas:
+    'box1 box2'
+    'box3 box4';
+  gap: 2vw;
+  justify-content: center;
+
+}
+
+.box1,
+.box2,
+.box3,
+.box4 {
+  border-radius: 30px;
+  padding: 30px;
+  max-height: fit-content;
+  width: 30vw;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+
+}
+
+.box1:hover,
+.box2:hover,
+.box3:hover,
+.box4:hover {
+  transition: 0.5s;
+  transform: scale(1.05);
+}
+
+.link-leggi {
+  background-color: #ffd500;
+  font-size: 20px;
+  padding: 1vh 2vh;
+  border-radius: 20px;
+  text-decoration: none;
+  color: black;
+
+}
+
+.link-leggi:hover {
+  transition: 0.5s;
+  transform: scale(1.2);
+}
+
+.box-image {
+  height: 8vmax;
+}
+
+
+@media (max-width: 992px) {
+  .grid-container {
+
+    grid-template-areas:
+      'box1'
+      'box2'
+      'box3'
+      'box4'
+  }
+
+
+}
+
+.box-image {
+
+  border-radius: 50%;
+}
+
+.box-text {
+  font-size: 1vw;
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  font-family: 'Inter', sans-serif;
+  text-align: center;
+}
+
+.box-text {
+  font-size: 2.3vw;
+}
+
+@media only screen and (max-width: 576px) {
+
+
+  .box1,
+  .box2,
+  .box3,
+  .box4 {
+    min-width: fit-content;
+  }
+
+}

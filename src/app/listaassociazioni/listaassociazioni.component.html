@@ -1,0 +1,50 @@
+<div class="container-fluid px-0">
+  <div class="associazioni">
+
+  </div>
+</div>
+<div class="container-fluid">
+  <div class="row bg-white">
+    <div class="col-md-2 d-none d-md-block"></div>
+    <div class="col-12 col-md-8">
+      <section>
+        <div class="titolo">
+          <h3 class="titolo-associazioni">ASSOCIAZIONI</h3>
+          <div class="dropdown">
+            <button class="btn btn-secondary btn-lg dropdown-toggle" type="button" id="dropdownMenuButton"
+              data-bs-toggle="dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
+              style="background-color: #0472b3;">
+              Filtra per regione
+            </button>
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+              <div *ngFor="let regione of regioni;let i=index;">
+                <a (click)="filtroAssociazioni(regione);" class="dropdown-item"
+                  >{{regione.nome}} </a>
+              </div>
+            </div>
+          </div>
+
+        </div>
+        <div class="bg-white" *ngFor="let association of associations;let i=index;">
+          <div class="card mb-5"
+            style="max-width: 100vw; background-color: #0472b3; color: white; border-radius: 20px;">
+            <div class="row g-0">
+              <div class="col-md-4">
+                <img src="{{association.img}}" class="img-fluid rounded-end-start px-3 pt-3 pb-3  " alt="..."
+                  style="border-radius: 30px;">
+              </div>
+              <div class="col-md-8">
+                <div class="card-body">
+                  <h5 class="card-title">{{association["Title"]}}</h5>
+                  <p class="card-text">{{association["value"]}}</p>
+                  <p class="card-text"><a href="{{association.url}}" target="_blank" class="scopri">Scopri</a></p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+    <div class="col-md-2 d-none d-md-block"></div>
+  </div>
+</div>

@@ -1,0 +1,40 @@
+<h3 class="text-center text-uppercase">Principali Associazioni</h3>
+<div class="container-lg my-3" align="center">
+  <div id="myCarousel" class="carousel slide " data-bs-ride="carousel">
+    <!-- Carousel indicators -->
+    <ol class="carousel-indicators w-50 mx-auto">
+      <li data-bs-target="#myCarousel" data-bs-slide-to="0" class="active"></li>
+      <li data-bs-target="#myCarousel" *ngFor="let a of associations;let i=index;" [attr.data-bs-slide-to]="i+1"></li>
+    </ol>
+
+    <!-- Wrapper for carousel items -->
+
+    <div class="carousel-inner d-flex flex-row">
+          <div class="carousel-item active">
+            <img src="../../../assets/compagnia.png" class="d-block w-100 imgcarus" alt="Slide 1">
+            <div class="carousel-caption  d-md-block w-50 mx-auto">
+              <h5>Lista Associazioni Onlus</h5>
+              <p>Scorrendo scoprirete tutte le associazioni che aiutano l'Ucraina</p>
+            </div>
+          </div>
+        <div class="carousel-item" *ngFor="let association of associations;let i=index;"
+          [attr.data-regione]="association.reg">
+          <img src="{{association.img}}" class="d-block w-100 imgcarus" alt="Slide 2"/>
+          <div class="carousel-caption  d-md-block text-justify mx-auto">
+              <h5 class="figure-caption text-white">{{association["Title"]}}</h5>
+              <p>{{association["value"]}}</p>
+          </div>
+        </div>
+
+        <!-- Carousel controls -->
+        <div class="controls">
+        <a class="carousel-control-prev" href="#myCarousel" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon"></span>
+        </a>
+        <a class="carousel-control-next" href="#myCarousel" data-bs-slide="next">
+          <span class="carousel-control-next-icon"></span>
+        </a>
+      </div>
+      </div>
+    </div>
+    <div>

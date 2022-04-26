@@ -1,0 +1,279 @@
+{
+    "associazioni": [
+        {
+            "id": "1a",
+            "value": "La Croce Rossa propone e sostiene attività volte a proteggere e promuovere la salute, intesa come stato di completo benessere fisico e mentale e nel rispetto delle diversità tra ogni persona.",
+            "reg": "Lazio",
+            "Title": "Croce Rossa Italiana",
+            "img": "../../assets/associazioni/crocerossa.png",
+            "url": "https://cri.it/"
+        },
+        {
+            "id": "2a",
+            "value": "L'Ordine dei Frati Minori, fondato da san Francesco d'Assisi, è una Fraternita. I Frati, portando a compimento la loro consacrazione battesimale e rispondendo alla divina chiamata, si abbandonano totalmente a Dio sommamente amato, con la professione di obbedienza, povertà e castità, da vivere secondo lo spirito di san Francesco.",
+            "reg": "Lazio",
+            "Title": "Fondazione OFM Fraternitas",
+            "img": "../../assets/associazioni/fondazioneofm.png",
+            "url": "https://ofmfraternitas.org/"
+        },
+        {
+            "id": "3a",
+            "value": "La Fondazione dei Frati Minori Cappuccini raccoglie fondi e vive la carità con lo stile francescano. Reciprocità nella solidarietà e promozione umana.",
+            "reg": "Umbria",
+            "Title": "Fondazione Assisi Missio",
+            "img": "../../assets/associazioni/fondazioneassisi.jfif",
+            "url": "https://www.assisimissio.org/"
+        },
+        {
+            "id": "4a",
+            "Title": "Sermig - Arsenale della Pace",
+            "value": "Il Sermig - Servizio Missionario Giovani - è nato nel 1964 da un'intuizione di Ernesto Olivero e da un sogno condiviso con molti: sconfiggere la fame con opere di giustizia e di sviluppo, vivere la solidarietà verso i più poveri e dare una speciale attenzione ai giovani cercando insieme a loro le vie della pace.",
+            "reg": "Piemonte",
+            "img": "../../assets/associazioni/sermig.jpg",
+            "url": "https://www.sermig.org/arsenali/arsenale-della-pace.html"
+        },
+        {
+            "id": "5a",
+            "Title": "Oxfam Italia",
+            "value": "Oxfam Italia, che ha aderito nel 2010 all'organizzazione Oxfam, è una confederazione internazionale di organizzazioni non profit che si dedicano alla riduzione della povertà globale, attraverso aiuti umanitari e progetti di sviluppo.",
+            "reg": "Toscana",
+            "img": "../../assets/associazioni/oxfam3.png",
+            "url": "https://www.oxfamitalia.org/donations/salviamo-vite-nelle-emergenze/"
+        },
+        {
+            "id": "6a",
+            "Title": "Sant'Antonio di Padova",
+            "value": "Le nostre comunità di frati presenti in Ucraina, Polonia e Romania sono impegnate a dare rifugio e portare aiuti umanitari alle persone in fuga dal conflitto con la Russia, ad aiutare intere famiglie duramente colpite dalla violenza della guerra.",
+            "reg": "Veneto",
+            "img": "../../assets/associazioni/stantoniopadova.jpg",
+            "url": "https://www.santantonio.org/it"
+        },
+        {
+            "id": "7a",
+            "Title": "IBO Italia - Associazione Italiana Soci Costruttori onlus",
+            "value": "Impegnata da 60 anni nella cooperazione e nel volontariato. Negli ultimi anni ha coinvolto oltre 5.000 giovani volontari e 190.000 beneficiari.Sostieni i civili colpiti dalla guerra attraverso l'invio di materiali, dando la tua diponibilità ad ospitare o facendo una donazione per l'Ucraina.",
+            "reg": "Emilia Romagna",
+            "img": "../../assets/associazioni/iboitalia.jpg",
+            "url": "https://iboitalia.org/"
+        },
+        {
+            "id": "8a",
+            "Title": "A Casa Lontani da Casa ODV",
+            "value": "L'associazione promuove l'accoglienza di malati e dei loro famigliari che hanno necessità di spostarsi per ragioni di salute nelle grandi città. La rete di A Casa Lontani Da Casa si è già messa all'opera, non solo per l'accoglienza ma anche per coprire le necessità di cui le famiglie possono avere bisogno all'arrivo.",
+            "reg": "Lombardia",
+            "img": "../../assets/associazioni/ACLDC-logo-2021.png",
+            "url": "https://acasalontanidacasa.it/"
+        },
+        {
+            "id": "9a",
+            "Title": "Cesvi",
+            "value": "Cesvi è una storica ong italiana, intervenuta al fianco di People in need ai confini con la Slovacchia.",
+            "reg": "Lombardia",
+            "img": "../../assets/associazioni/cesvi.png",
+            "url": "https://www.cesvi.org/"
+        },
+        {
+            "id": "10a",
+            "Title": "Aibi è Amici dei Bambini",
+            "value": "Aibi opera nel Paese dal 1999 attraverso la Fondazione di beneficenza ucraina Drusie Ditiei Ukraina, la cui sede è a Kiev",
+            "reg": "Lombardia",
+            "img": "../../assets/associazioni/ACLDC-logo-2021.png",
+            "url": "https://www.aibi.it/ita/"
+        },
+        {
+            "id": "11a",
+            "Title": "Soleterre",
+            "value": "Soleterre, assieme all'Associazione ucraina Zaporuka, ha messo a disposizione la sua casa per i bambini malati di cancro e per assicurare loro la continuità delle cure mediche, chemio comprese.",
+            "reg": "Lombardia",
+            "img": "../../assets/associazioni/soleterre.png",
+            "url": "https://soleterre.org/"
+        },
+        {
+            "id": "12a",
+            "Title": "Avsi",
+            "value": "Avsi, grazie alla collaborazione con l'associazione ucraina Emmaus, suo partner locale, ha mantenuto un rapporto di vicinanza con l'Ucraina nel tempo.",
+            "reg": "Lombardia",
+            "img": "../../assets/associazioni/avsi.jpg",
+            "url": "https://www.avsi.org/it/"
+        },
+        {
+            "id": "13a",
+            "Title": "Action Aid  Italia",
+            "value": "Action Aid è al fianco delle donne e dei bambini in fuga dall'Ucraina. Un esodo che coinvolge un milione di persone attraverso le frontiere ",
+            "reg": "Lombardia",
+            "img": "../../assets/associazioni/actionaid.png",
+            "url": "https://adozioneadistanza.actionaid.it/"
+        },
+        {
+            "id": "14a",
+            "Title": "We World Italia",
+            "value": "We World, organizzazione che da 50 anni difende i diritti di donne e bambini in Italia e nel Mondo e che adotta bambini a distanza.",
+            "reg": "Lombardia",
+            "img": "../../assets/associazioni/weworld.jpg",
+            "url": "https://www.weworld.it/"
+        },
+        {
+            "id": "15a",
+            "Title": "Progetto Arca",
+            "value": "Una delegazione di Progetto Arca, che opera nel settore dell'accoglienza, con Uneba è partita da Milano con un convoglio carico di beni di prima necessità.",
+            "reg": "Lombardia",
+            "img": "../../assets/associazioni/arca.png",
+            "url": "https://www.progettoarca.org/"
+        },
+        {
+            "id": "16a",
+            "Title": "Intersos",
+            "value": "Intersos, i cui operatori ora si trovano Moldavia, ma anche in Polonia, fornisce assistenza medica e protezione ai rifugiati provenienti dall'Ucraina.",
+            "reg": "Lazio",
+            "img": "../../assets/associazioni/intersos.jpg",
+            "url": "https://www.intersos.org/"
+        },
+        {
+            "id": "17a",
+            "Title": "Save the Children",
+            "value": "Save the Children opera in Ucraina dal 2014, fornendo aiuti umanitari essenziali ai bambini e alle loro famiglie. Ciò include sostenere il loro accesso all'istruzione, fornire supporto psicosociale",
+            "reg": "Lazio",
+            "img": "../../assets/associazioni/save-the-children-logo.jpg",
+            "url": "https://www.savethechildren.it/"
+        },
+        {
+            "id": "18a",
+            "Title": "Terre des Hommes",
+            "value": "La Federazione Internazionale Terre des Hommes lavora in Ucraina, in particolare nell'area orientale del Paese.",
+            "reg": "Lombardia",
+            "img": "../../assets/associazioni/terradeshommes.jpg",
+            "url": "https://terredeshommes.it/"
+        },
+        {
+            "id": "19a",
+            "Title": "Medici del Mondo",
+            "value": "Medici del Mondo è un'organizzazione umanitaria internazionale presente anche in Italia per garantire l'accesso alle cure a tutti, specialmente alle persone più vulnerabili.",
+            "reg": "Lazio",
+            "img": "../../assets/associazioni/medicidelmondo.jpg",
+            "url": "https://medicidelmondo.it/"
+        },
+        {
+            "id": "20a",
+            "Title": "Movimento Internazionale per la PACE e la Salvaguardia del Creato - III Millennio",
+            "value": "Associazione di Volontariato ONLUS della Provincia di Caserta, Regione Campania (Italia). Associaz. di volontariato laico, apartitico, di impegno sociale e civile, per i diritti dei cittadini, delle fasce disagiate e le Pari Opportunità, la difesa dell' ambiente e dei Beni Comuni.",
+            "reg": "Campania",
+            "img": "../../assets/associazioni/movimentoambasciatoripace.jpg",
+            "url": "https://www.facebook.com/movimentoperlapace3millennio/"
+        },
+        {
+            "id": "21a",
+            "Title": "Solidarietà senza confini",
+            "value": "Solidarietà Senza Confini è un'associazione molisana di volontariato, costituita nel 1995, che ha come scopo quello d realizzare progetti umanitari e scambi culturali con Paesi non appartenenti all'Unione Europea.",
+            "reg": "Molise",
+            "img": "../../assets/associazioni/solidarietasenzaconfini.jfif",
+            "url": "https://www.solidarietasenzaconfini.it/"
+        },
+        {
+            "id": "22a",
+            "Title": "Fondazione Megamark",
+            "value": "Siamo la onlus del gruppo Megamark  costituita nel 2000, nel 2012 abbiamo promosso u n bando di concorso 'Orizzonti Solidalià' destinato alle associazioni, le onlus e le cooperative sociali attive nel terzo settore pugliese con lo scopo di finanziare progetti di assistenza, sanità, tutela dell'ambiente e valorizzazione della cultura da svolgersi in Puglia a favore dei più bisognosi.",
+            "reg": "Puglia",
+            "img": "../../assets/associazioni/fondazionemegamark.png",
+            "url": "https://fondazionemegamark.it/"
+        },
+        {
+            "id": "23a",
+            "Title": "UNICEF",
+            "value": "L'UNICEF è il Fondo delle Nazioni Unite per l'Infanzia. La missione principale dell'UNICEF è quella di contribuire alla sopravvivenza, alla protezione e allo sviluppo delle potenzialità di ogni bambino e bambina, con speciale cura per quelli più fragili e vulnerabili.",
+            "reg": " ",
+            "img": "../../assets/associazioni/unicef.png",
+            "url": "https://www.unicef.it/"
+        }
+    ],
+    "iniziative": [
+        {
+            "__INIZI-INIZIATIVE__": "INIZIO INIZIATIVE",
+            "id": "1i",
+            "value": "sono iniziativa",
+            "url": ""
+        }
+    ],
+    "regioni": [
+        {
+            "value": "Abruzzo",
+            "nome": "Abruzzo"
+        },
+        {
+            "value": "Basilicata",
+            "nome": "Basilicata"
+        },
+        {
+            "value": "Calabria",
+            "nome": "Calabria"
+        },
+        {
+            "value": "Campania",
+            "nome": "Campania"
+        },
+        {
+            "value": "Emilia-Romagna",
+            "nome": "Emilia-Romagna"
+        },
+        {
+            "value": "FVG",
+            "nome": "Friuli Venezia Giulia"
+        },
+        {
+            "value": "Lazio",
+            "nome": "Lazio"
+        },
+        {
+            "value": "Liguria",
+            "nome": "Liguria"
+        },
+        {
+            "value": "Lombardia",
+            "nome": "Lombardia"
+        },
+        {
+            "value": "Marche",
+            "nome": "Marche"
+        },
+        {
+            "value": "Molise",
+            "nome": "Molise"
+        },
+        {
+            "value": "Piemonte",
+            "nome": "Piemonte"
+        },
+        {
+            "value": "Puglia",
+            "nome": "Puglia"
+        },
+        {
+            "value": "Sardegna",
+            "nome": "Sardegna"
+        },
+        {
+            "value": "Sicilia",
+            "nome": "Sicilia"
+        },
+        {
+            "value": "Toscana",
+            "nome": "Toscana"
+        },
+        {
+            "value": "TAA",
+            "nome": "Trentino Alto Adige"
+        },
+        {
+            "value": "Umbria",
+            "nome": "Umbria"
+        },
+        {
+            "value": "Veneto",
+            "nome": "Veneto"
+        },
+        {
+            "value": "VAA",
+            "nome": "Valle d'Aosta"
+        }
+    ]
+    
+}

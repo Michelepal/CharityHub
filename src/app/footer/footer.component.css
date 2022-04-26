@@ -1,0 +1,33 @@
+.footContainer {
+    color: white;
+    height: 120px;
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #0472b3;
+}
+
+.socials {
+    display: flex;
+    gap: 20px
+}
+
+.nav{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+img {
+    width: 30px;
+    filter: brightness(0) invert(1);
+}
+
+a {
+    color: white;
+}
+    a:hover {
+        color: #ffd500;
+    }

@@ -1,0 +1,24 @@
+<nav class="navbar navbar-expand-sm navbar-dark navbar-fixed-top">
+ <!--  <a class="navbar-brand" href="#">Navbar</a> -->
+ <app-titolo class="navbar-brand"></app-titolo>
+  <button class="navbar-toggler" type="button" (click)="toggle();" data-bs-toggle="collapse" data-bs-target="#menu">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+ 
+  <div class="collapse navbar-collapse justify-content-end" id="menu">
+    <ul class="navbar-nav ml-auto mt-lg-0" [ngClass]="open == false? 'scomparsa' : 'comparsa'" >
+      <li class="nav-item">
+        <a class="nav-link" href="#" routerLink="home">Home</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#" routerLink="associazioni">Associazioni</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#" routerLink="iniziative">Iniziative</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#" routerLink="info">Info</a>
+      </li>
+    </ul>
+  </div>
+</nav>

@@ -1,0 +1,71 @@
+li a {
+  color: white !important;
+  font-weight: 600;
+
+}
+
+li a:hover {
+  color: #ffd500 !important;
+}
+
+
+.nav-item {
+  text-align: right;
+}
+
+@media only screen and (max-width: 576px) {
+
+  #menu {
+    width: 150px;
+  }
+
+  ul {
+    position: absolute;
+    right: 30%;
+    top: 100%;
+    /* animation: comparsa 0.3s ease-out;
+    animation-fill-mode: forwards; */
+  }
+
+  ul li {
+    text-align: center;
+  }
+
+  .comparsa {
+    animation: comparsa 0.3s ease-out;
+    animation-fill-mode: forwards;
+  }
+
+  @keyframes comparsa {
+
+    from {
+      top: 60%
+    }
+
+    to {
+      top: 100%
+    }
+
+  }
+
+
+  .scomparsa {
+    
+    animation: scomparsa 0.3s ease-out;
+    animation-fill-mode: forwards;
+  }
+
+  @keyframes scomparsa {
+
+    from {
+      top: 100%
+    }
+
+    to {
+      top: 60%
+    }
+
+  }
+
+}
+
