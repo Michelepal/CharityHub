@@ -6,7 +6,7 @@ import { ListaassociazioniComponent } from './listaassociazioni/listaassociazion
 import { ListainiziativeComponent } from './listainiziative/listainiziative.component';
 
 const routes: Routes = [
-  { path: '', component: HomeComponent },
+  { path: '', pathMatch:"full", component: HomeComponent },
   { path: 'home', component: HomeComponent },
   { path: 'info', component: InfoComponent },
   { path: 'iniziative', component: ListainiziativeComponent },
