@@ -1,109 +1,140 @@
 .bg {
-    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(../../assets/cover-iniziative.png);
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../../assets/cover-iniziative.png);
 }
-#sopra{
-    display: block;
-    height: 100vh;
-    padding: 0;
-    margin-top: -90px;      
+
+#sopra {
+  display: block;
+  height: 100vh;
+  padding: 0;
+  margin-top: -90px;
 }
+
 .ini {
-    display: flex;
-    position: absolute;
-    color:black;
+  display: flex;
+  position: absolute;
+  color: black;
 }
+
 .btn {
-    border-radius: 80%;
+  border-radius: 80%;
 }
 
 .sotto h2 {
-    
-    font-size: 6vmin;     
+
+  font-size: 6vmin;
 }
 
-#filter, #drop {
-    width: 4vw;
-    height: auto;
+#filter,
+#drop {
+  width: 4vw;
+  height: auto;
 }
 
 .filter {
-    margin-left: 50%;
+  margin-left: 50%;
 }
-.scad{
-    display: flex;
-    position: absolute;
-    margin-top: 45%;
-    margin-left: 20%;
+
+.scad {
+  display: flex;
+  position: absolute;
+  margin-top: 45%;
+  margin-left: 20%;
 }
-div.card{
-    white-space:normal;
-    border-radius: 30px;
-    display:flex;
-    flex-direction: column;
-    padding-top: 2vh;
-    align-items: center;
-    color: black;
-    margin: 20px 0px 20px 10px;
-    flex-basis: 40vh;
-    flex-grow: 0;
-    flex-shrink: 0;
-    background-color:  #0472b3;
-    text-align: left;
+
+div.card {
+ /*  max-width: fit-content;
+  height: fit-content; */
+  height: 30vw;
+  width: auto;
+  white-space: normal;
+  border-radius: 30px;
+  padding-top: 2vh;
+  color: black;
+  padding: 5px;
+  background-color: #0472b3;
+  text-align: left;
 }
-div.cardcontainer{
-    height: 90%;
-    width: 80%;
-    display: flex;
-    flex-direction: column;
-    gap: 16px;
-    
+
+div.cardcontainer {
+  width: auto;
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  font-size: 80%;
+
 }
-div.card > img {
-    border-radius: 30px;
+
+div.card>img {
+  border-radius: 30px;
 }
+
 .corso {
-    display:flex;
-    position:row;
-    margin-top: 10%;
-    margin-left: 100px; 
-    margin-right: 100px;
-    
+  display: flex;
+  justify-content: center;
+  width: 70vw;
+  margin: 0 auto;
+
 }
-.scadute{
-    display:flex;
-    position:row;
-    margin-top: 50%;
-    
+
+.scadute {
+  display: flex;
+  position: row;
+  margin-top: 50%;
+
 }
-.cardcontainer > button {
-    background-color:#ffd500;
-    width: 100px;
-    margin: auto;
+
+.cardcontainer button {
+  background-color: #ffd500;
+  width: 90%;
+  
 }
- a, a:hover, a:focus, a:active{
-    text-decoration: none;
-    color: inherit;
+
+a,
+a:hover,
+a:focus,
+a:active {
+  text-decoration: none;
+  color: inherit;
+  font-size: 80%;
 }
+
 .pagina {
-    background-color:whitesmoke;
+  background-color: whitesmoke;
 }
 
+.dropdown-menu {
+  max-height: 500px;
+  font-size: 80%;
 
-
-/* @media screen and (max-width: 1250px) {
-    .sotto{
-        padding: 0;
-        margin: auto;
-    }    
-} */
-/* @media (min-width:450px) {
-        div.container.sotto{
-            size: auto;
-    }
 }
-@media screen and (max-width: 350) {
-    .sotto {
-        padding: 0;
-        margin: 0;
-    }
-} */
+
+.titolo {
+    font-size: 80%;
+}
+
+@media only screen and (max-width: 576px) {
+
+  div.card {
+    /*  max-width: fit-content;
+     height: fit-content; */
+     height: initial;
+     width: auto;
+   }
+   
+   div.cardcontainer {
+     width: auto;
+     min-height: fit-content;
+     font-size: 80%;
+   
+   }
+
+
+  .cardcontainer>button {
+    background-color: #ffd500;
+    width: 90%;
+    margin: auto;
+  }
+  
+}

@@ -1,257 +1,35 @@
 <div class="pagina">
-<div id="sopra" class="bg">
-</div>
-<div class="container sotto d-flex justify-content-around justify-content-md-center mt-3">
-    <button onclick="changeVisibility()" class="btn btn-warning dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown"
-      aria-expanded="false">
+  <div id="sopra" class="bg">
+  </div>
+  <div class="container sotto d-flex justify-content-around justify-content-md-center mt-3">
+    <button onclick="changeVisibility()" class="btn btn-warning dropdown-toggle" type="button" id="dropdownMenuButton1"
+      data-bs-toggle="dropdown" aria-expanded="false">
       <img id="filter" src="../../assets/arrowz.png" />
     </button>
-  <h2 class="ini">Iniziative In Corso</h2>
-  <div class="dropdown filter">
-    <button class="dropdown-toggle hidden-arrow btn btn-warning dropdown-toggle rounded-pill" role="button" type="button" id="navbarDropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
-      <img id="drop" src="../../assets/filter.png" />
-    </button>
-<ul class="dropdown-menu dropdown-menu-left" aria-labelledby="navbarDropdownMenuLink">
-  <li>
-          <div class="input-group mt-2 mx-2">
-            <div class="form-outline">
-              <input type="search" id="form1" class="form-control-dropdown" />
-              <label class="form-label" for="form1"></label>
-            </div>
-          </div>
-        </li> 
-      <li><hr class="dropdown-divider" /></li>
-      <li><a class="dropdown-item" href="#"> Abruzzo </a></li>
-      <li><a class="dropdown-item" href="#"> Basilicata </a></li>
-      <li><a class="dropdown-item" href="#"> Calabria </a></li>
-      <li><a class="dropdown-item" href="#"> Campania </a></li>
-      <li><a class="dropdown-item" href="#"> Emilia-Romagna </a></li>
-      <li><a class="dropdown-item" href="#"> Friuli Venezia Giulia </a></li>
-      <li><a class="dropdown-item" href="#"> Lazio </a></li>
-      <li><a class="dropdown-item" href="#"> Liguria </a></li>
-      <li><a class="dropdown-item" href="#"> Lombardia </a></li>
-      <li><a class="dropdown-item" href="#"> Marche </a></li>
-      <li><a class="dropdown-item" href="#"> Molise </a></li>
-      <li><a class="dropdown-item" href="#"> Piemonte </a></li>
-      <li><a class="dropdown-item" href="#"> Puglia </a></li>
-      <li><a class="dropdown-item" href="#"> Sardegna </a></li>
-      <li><a class="dropdown-item" href="#"> Sicilia </a></li>
-      <li><a class="dropdown-item" href="#"> Toscana </a></li>
-      <li><a class="dropdown-item" href="#"> Trentino-Alto Adige </a></li>
-      <li><a class="dropdown-item" href="#"> Umbria </a></li>
-      <li><a class="dropdown-item" href="#"> Valle d'Aosta </a></li>
-      <li><a class="dropdown-item" href="#"> Veneto </a></li>
-    </ul>
-  </div>
-</div>
-<div class="corso row justify-content-between xxl xl lg md sm">
-  <div class="card">
-    <div class="cardcontainer text-center ">
-      <img src="../../assets/1.png" height="50%" width="100%">
-      <a href="www.google.it">
-        <h2 class="titolo">Associazione 1</h2>
-      </a>
-      <p>BLA BLA BLA BLA BLA BLA <br>
-        BLA BLA BLA BLA BLA BLA <br>
-        BLA BLA BLA BLA BLA BLA
-      </p>
-      <button class="rounded-pill"><a class="mail" href="www.google.it">scopri</a></button>
+    <h2 class="ini">Iniziative In Corso</h2>
+    <div class="dropdown filter">
+      <button class="dropdown-toggle hidden-arrow btn btn-warning dropdown-toggle rounded-pill" role="button"
+        type="button" id="navbarDropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
+        <img id="drop" src="../../assets/filter.png" />
+      </button>
+      <ul class="dropdown-menu dropdown-menu-left w-75 overflow-scroll" aria-labelledby="navbarDropdownMenuLink">
+        <div *ngFor="let associazione of associazioni">
+        <li><a class="dropdown-item d-inline-block p-1 text-wrap" href="#"> {{ associazione.Title}} </a></li>
+      </div>
+      </ul>
     </div>
   </div>
-  <div class="card flex-start col-6">
-    <div class="cardcontainer text-center">
-      <img src="../../assets/1.png" height="50%" width="100%">
-      <a href="www.google.it">
-        <h2 class="titolo">Associazione 2</h2>
-      </a>
-      <p>BLA BLA BLA BLA BLA BLA <br>
-        BLA BLA BLA BLA BLA BLA <br>
-        BLA BLA BLA BLA BLA BLA
-      </p>
-      <button class="rounded-pill"><a class="mail" href="www.google.it">scopri</a></button>
+  <div class="corso row mt-2">
+    <div class="col-md-4" *ngFor="let iniziativa of iniziative">
+      <div class="card mb-3" >
+        <div class="cardcontainer text-center my-auto h-100 align-content-baseline" >
+          <img class="img-fluid w-25 mx-auto mt-auto" src="{{iniziativa.img}}">
+          <a href="{{iniziativa.url}}">
+            <h2 class="titolo mb-auto">{{iniziativa.associazione}}</h2>
+          </a>
+          <p class="mb-auto">{{iniziativa.value}}</p>
+          <button class="rounded-pill w-75"><a class="mail" href="{{iniziativa.url}}">scopri</a></button>
+        </div>
+      </div>
     </div>
   </div>
-  <div class="card">
-    <div class="cardcontainer text-center">
-      <img src="../../assets/1.png" height="50%" width="100%">
-      <a href="www.google.it">
-        <h2 class="titolo">Associazione 3</h2>
-      </a>
-      <p>BLA BLA BLA BLA BLA BLA <br>
-        BLA BLA BLA BLA BLA BLA <br>
-        BLA BLA BLA BLA BLA BLA
-      </p>
-      <button class="rounded-pill"><a class="mail" href="www.google.it">scopri</a></button>
-    </div>
-  </div>
-  <div class="card">
-    <div class="cardcontainer text-center">
-      <img src="../../assets/1.png" height="50%" width="100%">
-      <a href="www.google.it">
-        <h2 class="titolo">Associazione 4</h2>
-      </a>
-      <p>BLA BLA BLA BLA BLA BLA <br>
-        BLA BLA BLA BLA BLA BLA <br>
-        BLA BLA BLA BLA BLA BLA
-      </p>
-      <button class="rounded-pill"><a class="mail" href="www.google.it">scopri</a></button>
-    </div>
-  </div>
-  <div class="card">
-    <div class="cardcontainer text-center">
-      <img src="../../assets/1.png" height="50%" width="100%">
-      <a href="www.google.it">
-        <h2 class="titolo">Associazione 5</h2>
-      </a>
-      <p>BLA BLA BLA BLA BLA BLA <br>
-        BLA BLA BLA BLA BLA BLA <br>
-        BLA BLA BLA BLA BLA BLA
-      </p>
-      <button class="rounded-pill"><a class="mail" href="www.google.it">scopri</a></button>
-    </div>
-  </div>
-  <div class="card">
-    <div class="cardcontainer text-center">
-      <img src="../../assets/1.png" height="50%" width="100%">
-      <a href="www.google.it">
-        <h2 class="titolo">Associazione 6</h2>
-      </a>
-      <p>BLA BLA BLA BLA BLA BLA <br>
-        BLA BLA BLA BLA BLA BLA <br>
-        BLA BLA BLA BLA BLA BLA
-      </p>
-      <button class="rounded-pill"><a class="mail" href="www.google.it">scopri</a></button>
-    </div>
-  </div>
-  <div class="card">
-    <div class="cardcontainer text-center">
-      <img src="../../assets/1.png" height="50%" width="100%">
-      <a href="www.google.it">
-        <h2 class="titolo">Associazione 7</h2>
-      </a>
-      <p>BLA BLA BLA BLA BLA BLA <br>
-        BLA BLA BLA BLA BLA BLA <br>
-        BLA BLA BLA BLA BLA BLA
-      </p>
-      <button class="rounded-pill"><a class="mail" href="www.google.it">scopri</a></button>
-    </div>
-  </div>
-  <div class="card">
-    <div class="cardcontainer text-center">
-      <img src="../../assets/1.png" height="50%" width="100%">
-      <a href="www.google.it">
-        <h2 class="titolo">Associazione 8</h2>
-      </a>
-      <p>BLA BLA BLA BLA BLA BLA <br>
-        BLA BLA BLA BLA BLA BLA <br>
-        BLA BLA BLA BLA BLA BLA
-      </p>
-      <button class="rounded-pill"><a class="mail" href="www.google.it">scopri</a></button>
-    </div>
-  </div>
-</div>
- <!--
-<div class="container scad">
-  <div class="dropdown">
-    <button class="btn btn-warning dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown"
-      aria-expanded="false">
-      <img src="../../assets/arrowz.png" width="50" />
-    </button>
-    <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
-      <li><a class="dropdown-item" href="#"> Abruzzo </a></li>
-      <li><a class="dropdown-item" href="#"> Basilicata </a></li>
-      <li><a class="dropdown-item" href="#"> Calabria </a></li>
-      <li><a class="dropdown-item" href="#"> Campania </a></li>
-      <li><a class="dropdown-item" href="#"> Emilia-Romagna </a></li>
-      <li><a class="dropdown-item" href="#"> Friuli Venezia Giulia </a></li>
-      <li><a class="dropdown-item" href="#"> Lazio </a></li>
-      <li><a class="dropdown-item" href="#"> Liguria </a></li>
-      <li><a class="dropdown-item" href="#"> Lombardia </a></li>
-      <li><a class="dropdown-item" href="#"> Marche </a></li>
-      <li><a class="dropdown-item" href="#"> Molise </a></li>
-      <li><a class="dropdown-item" href="#"> Piemonte </a></li>
-      <li><a class="dropdown-item" href="#"> Puglia </a></li>
-      <li><a class="dropdown-item" href="#"> Sardegna </a></li>
-      <li><a class="dropdown-item" href="#"> Sicilia </a></li>
-      <li><a class="dropdown-item" href="#"> Toscana </a></li>
-      <li><a class="dropdown-item" href="#"> Trentino-Alto Adige </a></li>
-      <li><a class="dropdown-item" href="#"> Umbria </a></li>
-      <li><a class="dropdown-item" href="#"> Valle d'Aosta </a></li>
-      <li><a class="dropdown-item" href="#"> Veneto </a></li>
-    </ul>
-  </div>
- 
-  <h2 class="ini">Iniziative Scadute</h2>
-  <div class="dropdown filter">
-    <button class="btn btn-warning dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown"
-      aria-expanded="false">
-      <img src="../../assets/filter.png" width="50px" />
-    </button>
-    <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
-      <li><a class="dropdown-item"> <input type="text" placeholder="Ricerca.."> </a></li> 
-      <li><a class="dropdown-item" href="#">  Abruzzo </a></li>
-      <li><a class="dropdown-item" href="#">  Basilicata </a></li>
-      <li><a class="dropdown-item" href="#">  Calabria </a></li>
-      <li><a class="dropdown-item" href="#">  Campania </a></li>
-      <li><a class="dropdown-item" href="#">  Emilia-Romagna </a></li>
-      <li><a class="dropdown-item" href="#">  Friuli Venezia Giulia </a></li>
-      <li><a class="dropdown-item" href="#"> Lazio </a></li>
-      <li><a class="dropdown-item" href="#"> Liguria </a></li>
-      <li><a class="dropdown-item" href="#"> Lombardia </a></li>
-      <li><a class="dropdown-item" href="#"> Marche </a></li>
-      <li><a class="dropdown-item" href="#"> Molise </a></li>
-      <li><a class="dropdown-item" href="#"> Piemonte </a></li>
-      <li><a class="dropdown-item" href="#"> Puglia </a></li>
-      <li><a class="dropdown-item" href="#"> Sardegna </a></li>
-      <li><a class="dropdown-item" href="#"> Sicilia </a></li>
-      <li><a class="dropdown-item" href="#"> Toscana </a></li>
-      <li><a class="dropdown-item" href="#"> Trentino-Alto Adige </a></li>
-      <li><a class="dropdown-item" href="#"> Umbria </a></li>
-      <li><a class="dropdown-item" href="#"> Valle d'Aosta </a></li>
-      <li><a class="dropdown-item" href="#"> Veneto </a></li>
-    </ul>
-  </div>
-</div>
-<div class="scadute justify-content-around">
-  <div class="card block">
-    <div class="cardcontainer text-center">
-      <img src="../../assets/1.png" height="50%" width="100%">
-      <a href="www.google.it">
-        <h2 class="titolo">Associazione 1</h2>
-      </a>
-      <p>BLA BLA BLA BLA BLA BLA<br>
-        BLA BLA BLA BLA BLA BLA<br>
-        BLA BLA BLA BLA BLA BLA
-      </p>
-      <button class="rounded-pill"><a class="mail" href="www.google.it">scopri</a></button>
-    </div>
-  </div>
-  <div class="card">
-    <div class="cardcontainer text-center">
-      <img src="../../assets/1.png" height="50%" width="100%">
-      <a href="www.google.it">
-        <h2 class="titolo">Associazione 2</h2>
-      </a>
-      <p>BLA BLA BLA BLA BLA BLA <br>
-        BLA BLA BLA BLA BLA BLA <br>
-        BLA BLA BLA BLA BLA BLA
-      </p>
-      <button class="rounded-pill"><a class="mail" href="www.google.it">scopri</a></button>
-    </div>
-  </div>
-  <div class="card">
-    <div class="cardcontainer text-center">
-      <img src="../../assets/1.png" height="50%" width="100%">
-      <a href="www.google.it">
-        <h2 class="titolo">Associazione 3</h2>
-      </a>
-      <p>BLA BLA BLA BLA BLA BLA <br>
-        BLA BLA BLA BLA BLA BLA <br>
-        BLA BLA BLA BLA BLA BLA
-      </p>
-      <button class="rounded-pill"><a class="mail" href="www.google.it">scopri</a></button>
-    </div>
-  </div>
-</div>
--->
-</div>

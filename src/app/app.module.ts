@@ -34,19 +34,6 @@ import { ListaassociazioniComponent } from './listaassociazioni/listaassociazion
     FrecciagiuComponent,
     ListainiziativeComponent,
     ListaassociazioniComponent
-/*     HeaderComponent,
-    NavigazioneComponent,
-    TitoloComponent,
-    HomeComponent,
-    InfoComponent,
-    FooterComponent,
-    BannerComponent,
-    IniziativeComponent,
-    StorieComponent,
-    AssociazioniComponent,
-    FrecciagiuComponent,
-    ListainiziativeComponent,
-    ListaassociazioniComponent, */
 
   ],
   imports: [

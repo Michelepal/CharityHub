@@ -187,7 +187,7 @@
     ],
     "iniziative": [
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "2i",
             "value": "La Croce Rossa Italiana ha lanciato immediatamente una raccolta fondi per finanziare le attività in sostegno della popolazione civile e la gestione degli sfollati presenti in Ucraina e quelli che cercano riparo nelle nazioni confinanti. Fondi necessari per rispondere sia ai bisogni umanitari di chi è rimasto in Ucraina sia dei profughi che cercano asilo oltre confine. ",
             "reg": "Lazio",
@@ -196,7 +196,7 @@
             "url": "https://cri.it/"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "3i",
             "value": "Intervento nei Paesi che stanno accogliendo le persone in fuga per garantire loro cibo, acqua e kit igienici. Allestimento spazi sicuri per prevenire episodi di violenza e fornire supporto psicologico. Contemporaneamente, in Italia, sostegno alle persone di nazionalità ucraina che vivono e lavorano qui. Raccolta fondi: https://bit.ly/3Cm2ctC",         
             "reg": "Lombardia",
@@ -205,7 +205,7 @@
             "url": "https://donaora.actionaid.it/emergenzaucraina/~mia-donazione?ns_ira_cr_arg=IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyN88Ck9KRdeEezk8nqhxd%2B8HURqoVu6VUJmM6bzA0TC446%2BxQFBggGsv6I5J4VMxbjRsmxApdnSs/iWo4GwbBuaobjBp591FzqTxZpRmLOrnP5Vo5nwwaIxszqIjQs1lxA%3D&mnuid=1a31g5fe6ag76324f97fda1f9725898ad974ba88650aa6b014b&mnref=s1d50,o19a0c&_cv=1"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "4i",
             "value": " #BAMBINIxLAPACE. Iniziative di assistenza umanitaria rivolta ai bambini accolti negli istituti in Ucraina, alle famiglie in fuga dalla guerra che hanno trovato protezione nei campi profughi in Moldova e a minori orfani e nuclei monogenitoriali (mamma-bambino) in arrivo in Italia. Inoltre, approvvigionamenti di beni di prima necessità; supporto psico-sociale; attività di animazione; evacuazione di minori e famiglie dalle aree a maggior rischio. Raccolta fondi: https://www.aibi.it/ita/sostieni-aibi/donazione-libera/ ",      
             "reg": "Lombardia",
@@ -214,7 +214,7 @@
             "url": "https://www.aibi.it/ita/sostieni-aibi/donazione-libera/"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "5i",
             "value": "Raccolta di beni alimentari e di prima necessità, indumenti o farmaci, promosse in collaborazione con altre associazioni o istituzioni locali: www.ancescao.it",
             "reg": "Emilia-Romagna",
@@ -223,7 +223,7 @@
             "url": "http://www.ancescao.it"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "6i",
             "value": "Raccolta Fondi, accoglienza profughi, raccolta materiale www.anpas.org/categoria-news-generale/3839-raccoltafondi-ucraina.html  ",
             "reg": "Toscana",
@@ -232,7 +232,7 @@
             "url": "http://www.anpas.org/categoria-news-generale/3839-raccoltafondi-ucraina.html"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "7i",
             "value": "Raccolta fondi nazionale a favore di Intersos in aiuto ai profughi in fuga più vulnerabili: anziani e bambini; raccolta materiale nei territori (farmaci, prodotti per l’igiene, alimenti per l’infanzia, torce, pile, alimenti, vestiario, ecc); accoglienza profughi in Italia, accompagnamento, corsi di lingua italiana ",
             "reg": "Lazio",
@@ -241,7 +241,7 @@
             "url": "http://www.auser.it"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "8i",
             "value": "Sostegno di emergenza per famiglie vulnerabili e sfollati interni in Ucraina a Leopoli e al confine con Polonia e Romania:  www.avsi.org/it/campaign/emergenza-ucraina-helpukraine/88 ",
             "reg": "Lombardia",
@@ -250,7 +250,7 @@
             "url": "http://www.avsi.org/it/campaign/emergenza-ucraina-helpukraine/88"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "9i",
             "value": " Raccolta Fondi, e beni di prima necessità: www.cesvi.org/emergenzaucraina ",
             "reg": "Lombardia",
@@ -259,7 +259,7 @@
             "url": "http://www.cesvi.org/emergenzaucraina"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "10i",
             "value": " Assistenze medica, chirurgia con clinica mobile, assistenza psicologica: www.emergenzasorrisi.it ",
             "reg": "Lazio",
@@ -268,7 +268,7 @@
             "url": "http://www.emergenzasorrisi.it"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "11i",
             "value": " Federavo ha eseguito una donazione a favore della casa di accoglienza per bambini profughi ucraini sita in Cracovia e gestita dai padri e dalle sorelle guanelliane; altre Avo associate a Federavo hanno aderito all’iniziativa; altre ancora stanno aderendo ad altre iniziative a sostegno della popolazione ucraina ",
             "reg": "Lombardia",
@@ -277,7 +277,7 @@
             "url": "https://federavo.it/"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "12i",
             "value": "Supporto alle Organizzazioni che svolgono servizio attività di accoglienza ai profughi mediante attività ludiche per bambini e adulti, da realizzarsi tramite le proprie associate come momenti di socialità e integrazione ma anche come strumento di mediazione culturale e apprendimento linguistico.",
             "associazione": "Federludo",
@@ -285,7 +285,7 @@
             "url": "www.federludo.it"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "13i",
             "value": "Raccolta di alimenti, medicinali, indumenti e varie in collaborazione con l’amministrazione comunale di Vallo della Lucania.",
             "reg": "Campania",
@@ -294,7 +294,7 @@
             "url": "www.fenalc.it"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "14i",
             "value": "Raccolta di beni di prima necessità e apertura di un conto corrente dedicato tra i nostri circoli affiliati",
             "reg": "Emilia-Romagna",
@@ -303,7 +303,7 @@
             "url": "www.fitel.it - www.fitelemiliaromagna.it"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "15i",
             "value": "Raccolta fondi per emergenza insieme alla Federazione Europea dei Banchi Alimentari per fornire aiuto e supporto alimentare immediato",
             "reg": "Lombardia",
@@ -312,7 +312,7 @@
             "url": "www.bancoalimentare.it/it/news/comunicato-stampa-all-together-4-ukraine"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "16i",
             "value": "Distribuzione medicinali e sostegno",
             "reg": "Emilia-Romagna",
@@ -321,7 +321,7 @@
             "url": "https://iboitalia.org/ibo-in-ucraina-la-nostra-richiesta-di-pace"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "17i",
             "value": "Raccolta fondi per i rifugiati, raccolta di farmaci",
             "reg": "Lazio",
@@ -330,7 +330,7 @@
             "url": "https://dona.unhcr.it/campagna/crisi-in-ucraina"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "18i",
             "value": "Raccolta medicinali e raccolta fondi in collaborazione con il Comitato 10 febbraio",
             "reg": "Lazio",
@@ -339,7 +339,7 @@
             "url": "https://modavi.it/emergenza-ucraina"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "19i",
             "value": "Fornitura materiali prima assistenza sanitaria e vari",
             "reg": "Lazio",
@@ -348,7 +348,7 @@
             "url": "www.progettosud.org/it"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "20i",
             "value": "Da 18 anni in Ucraina. Cure oncologiche minori: Istituto del Cancro e Istituto di Neurochirurgia di Kiev, Ospedale Regionale di Lviv e Casa di Accoglienza per famiglie per lunghe terapie in day-hospital, attività socio-sanitarie sul territorio. Ora anche interventi di emergenza, di accompagnamento nello sfollamento, di spostamento anche i Italia di bambini sotto cura.",
             "reg": "Lombardia",
@@ -357,7 +357,7 @@
             "url": "https://soleterre.org/ucraina"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "21i",
             "value": "Raccolta fondi",
             "reg": "Lombardia",
@@ -366,7 +366,7 @@
             "url": "www.sosbambini.it/news/emergenza-ucraina-dona-ora"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "22i",
             "value": "Raccolta fondi per materiale sanitario",
             "reg": "Lombardia",
@@ -375,7 +375,7 @@
             "url": "https://emergenzabambini.terredeshommes.it/emergenza-ucraina"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "23i",
             "value": "Campagna di sensibilizzazione e comunicazione #SportAgainstWar promossa insieme ad Amnesty International Italia, Assist Associazione Nazionale Atlete, Sport4Society e Usigrai. Raccolte fondi e iniziative specifiche di sostegno alla popolazione ucraina a supporto di iniziative di organizzazioni della Rete AOI e di istituzioni locali",
             "reg": "Lazio",
@@ -384,7 +384,7 @@
             "url": "www.uisp.it"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "24i",
             "value": "Sensibilizzazione e comunicazione",
             "reg": "Lazio",
@@ -393,7 +393,7 @@
             "url": "www.uneba.org/tag/ucraina"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "25i",
             "value": "Accoglienza profughi – informazioni su trattamenti e terapie: www.uniamo.org Coordinamento delle iniziative messe in campo dalle Associazioni di singola patologia, per: 1) raccolta farmaci specifici e indirizzamento sui centri più idonei al trattamento 2) accoglienza famiglie 3) resource centre con informazioni verificate. https://uniamo.org/in-evidenza/ucraina-i-supporti-per-i-malati-rari/",
             "reg": "Lazio",
@@ -402,7 +402,7 @@
             "url": "www.uniamo.org "
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "26i",
             "value": "Raccolta fondi",
             "reg": " ",
@@ -411,7 +411,7 @@
             "url": "www.unicef.it/media/crisi-ucraina-la-rai-sostiene-la-campagna-di-raccolta-di-croce-rossa-italiana-unhcr-unicef"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "27i",
             "value": "Raccolta fondi",
             "reg": "",
@@ -420,7 +420,7 @@
             "url": "www.weworld.it/sostienici/campagne/ucraina"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "28i",
             "value": "Raccolta fondi",
             "reg": "",
@@ -429,7 +429,7 @@
             "url": "www.caritas.it"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "29i",
             "value": "Raccolta fondi",
             "reg": "",
@@ -438,7 +438,7 @@
             "url": "https://dona.santegidio.org/iniziativa/ucraina/?o=63"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "30i",
             "value": "Raccolta fondi",
             "reg": "",
@@ -447,7 +447,7 @@
             "url": "www.medicisenzafrontiere.it/landing/emergenza-ucraina"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "31i",
             "value": "Raccolta materiale",
             "reg": "",
@@ -456,7 +456,7 @@
             "url": "www.cooperativasiss.it"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "32i",
             "value": "Raccolta fondi",
             "reg": "",
@@ -465,7 +465,7 @@
             "url": "www.sositalia.it/campaign/ucraina"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "33i",
             "value": "Raccolta medicinali, materiale sanitario e di primo soccorso",
             "reg": "",
@@ -474,7 +474,7 @@
             "url": "https://www.asiodv.it/donate/ "
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "34i",
             "value": "Raccolta medicinali e alimenti a lunga conservazione",
             "reg": "",
@@ -483,7 +483,7 @@
             "url": ""
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "35i",
             "value": "Raccolta generi di prima necessità e raccolta fondi da inviare a Soroca, in Moldavia, corridoio umanitario, in raccordo con Metropolia Moldava che attraverso le parrocchie organizza gli interventi di aiuto. I fondi sosterranno le iniziative di prima accoglienza, l’ospedale locale e le associazioni di volontariato.",
             "reg": "Lombardia",
@@ -492,7 +492,7 @@
             "url": "www.aclipavia.it"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "36i",
             "value": "Materiale sanitario, viveri. Disponibilità ad accogliere una mamma con figli in un piccolo appartamento",
             "reg": "Basilicata",
@@ -501,7 +501,7 @@
             "url": "www.anffaspolicoro.it"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "37i",
             "value": "Raccolta materiale accoglienza persone con disabilità",
             "reg": "Lombardia",
@@ -510,7 +510,7 @@
             "url": "http://www.anffaspavia.org/"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "38i",
             "value": "Raccolta materiale-Raccolta fondi",
             "reg": "Puglia",
@@ -519,7 +519,7 @@
             "url": "https://arcipuglia.it/circoli-arci-valle-ditria/"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "39i",
             "value": "Messa a disposizione di spazi e di volontari/e per la raccolta di beni di prima necessità per il popolo ucraino (farmaci, vestiti, alimenti) in collaborazione con la comunità ucraina e i Comuni del territorio.",
             "reg": "Toscana",
@@ -528,7 +528,7 @@
             "url": "www.arcivaldera.it"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "40i",
             "value": "– Promozione e partecipazione alle manifestazioni di piazza contro la guerra tenutesi a Empoli (FI) Il 24 febbraio (Piazza della Vittoria) e 25 febbraio (Piazza F. degli Uberti) – Promozione della partecipazione con un pullman da Empoli alla manifestazione nazionale per la pace di sabato 5 marzo a Roma – Partecipazione alla iniziativa pubblica contro la guerra organizzata dal PD di Empoli che si terrà lunedì 7 ore 18,00 al Circolo Arci di Avane – Empoli (FI) – In attesa di promuovere raccolta abiti e generi di prima necessità per profughi ucraini, non appena sarà a regime (a brevissimo) il centro di raccolta intercomunale, supervisionato dalla Protezione Civile",
             "reg": "Toscana",
@@ -537,7 +537,7 @@
             "url": "www.arciempolesevaldelsa.it"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "41i",
             "value": "Accoglienza e raccolta materiali",
             "reg": "Puglia",
@@ -546,7 +546,7 @@
             "url": "http://www.arcifoggia.it/"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "42i",
             "value": "Raccolta di beni di prima necessità per supportare la popolazione ucraina",
             "reg": "Campania",
@@ -555,7 +555,7 @@
             "url": "http://www.arcinapolicomitato.it/"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "43i",
             "value": "In collaborazione con il comune di Suvereto, offriamo il nostro circolo come punto raccolta di beni di prima necessità. Raccolta fondi",
             "reg": "Toscana",
@@ -564,7 +564,7 @@
             "url": "https://www.facebook.com/Circolo-Arci-San-Lorenzo-103158198572314/"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "44i",
             "value": "Raccolta materiali",
             "reg": "Lazio",
@@ -573,7 +573,7 @@
             "url": "https://www.romapaese.it/risorsa/arci-civitavecchia/"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "45i",
             "value": "Raccolta materiale",
             "reg": "Friuli-Venezia Giulia",
@@ -582,7 +582,7 @@
             "url": "https://www.facebook.com/arcicralciliti/"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "46i",
             "value": "Raccolta fondi da destinare a UNICEF e CRI Ucraina Raccolta materiale sanitario non medicinale per CRI Ucraina Campagna di messa a disposizione di appartamenti per profughi attraverso Ats della Valpadana (ad oggi 3 alloggi trovati)",
             "reg": "Lombardia",
@@ -591,7 +591,7 @@
             "url": "https://www.arcimantova.com/"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "47i",
             "value": "Centro raccolta beni per ucraini",
             "reg": "Umbria",
@@ -600,7 +600,7 @@
             "url": "https://www.assoutenti.it/lo-sportello-al-cittadino-di-assoutenti-umbria/perugia/"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "48i",
             "value": "Raccolta fondi e materiali",
             "reg": "Toscana",
@@ -609,7 +609,7 @@
             "url": "ausermontaleodv.it"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "49i",
             "value": "Raccolta viveri, fondi e indumenti",
             "reg": "Toscana",
@@ -618,7 +618,7 @@
             "url": "https://auser.siena.it/"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "50i",
             "value": "Raccolta fondi",
             "reg": "Molise",
@@ -627,7 +627,7 @@
             "url": "http://www.ausermolise.it/"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "51i",
             "value": "Raccolta derrate e alimentari e donazioni in denaro",
             "reg": "Molise",
@@ -636,7 +636,7 @@
             "url": ""
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "52i",
             "value": "raccolta cibo di ogni genere, farmaci, materiale per l’igiene, capi d’abbigliamento nuovi",
             "reg": "",
@@ -645,7 +645,7 @@
             "url": "https://www.auser.it/"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "53i",
             "value": "Raccolta Fondi",
             "reg": "",
@@ -654,7 +654,7 @@
             "url": "https://www.auser.it/"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "54i",
             "value": "Promozione della cultura del dono e raccolta sangue con donazione del contributo derivante dalle convenzioni con le aziende sanitarie all’UNICEF e CARITAS per l’emergenza ucraina",
             "reg": "Basilicata",
@@ -663,7 +663,7 @@
             "url": "https://fidas.it/federate/basilicata/"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "55i",
             "value": "Apertura di due punti di raccolta farmaci, prodotti alimentari, abbigliamento per adulti e bambini, coperte e prodotti per la cura e l’igiene della persona nel comune di Corigliano Rossano (CS), a Bocchigliero(CS), Paludi(CS). Invio dei materiali ad un centro di smistamento ai confini polacchi dell’Ucraina. Accoglienza di eventuali gruppi di ucraini.",
             "reg": "Calabria",
@@ -672,7 +672,7 @@
             "url": "https://www.forumterzosettore.it/forum-nel-territorio/calabria/"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "56i",
             "value": "raccolta abbigliamento, viveri e beni di prima necessità",
             "reg": "Sardegna",
@@ -681,7 +681,7 @@
             "url": "www.facebook.com/SarrulloniLegambiente"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "57i",
             "value": "Raccolta fondi da destinare alla struttura di Flumini Quartu che accoglie i bambini ucraini",
             "reg": "Sardegna",
@@ -690,7 +690,7 @@
             "url": "www.legambientesardegna.com/"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "58i",
             "value": "Raccolta fondi, Proposta accoglienza profughi nei centri storici, raccolta alimenti e vestiario",
             "reg": "Calabria",
@@ -699,7 +699,7 @@
             "url": "www.unplics.it"
         },
         {   
-            "_INIZI-INIZIATIVE__": "in Corso",
+            "status": "in Corso",
             "id": "59i",
             "value": "",
             "reg": "Sardegna",
