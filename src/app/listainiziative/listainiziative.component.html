@@ -1,23 +1,10 @@
 <div class="pagina">
   <div id="sopra" class="bg">
   </div>
-  <div class="container sotto d-flex justify-content-around justify-content-md-center mt-3">
-    <button onclick="changeVisibility()" class="btn btn-warning dropdown-toggle" type="button" id="dropdownMenuButton1"
-      data-bs-toggle="dropdown" aria-expanded="false">
-      <img id="filter" src="../../assets/arrowz.png" />
-    </button>
+  <div class="container sotto d-flex justify-content-around justify-content-md-center mt-3 mb-5">
+    
     <h2 class="ini">Iniziative In Corso</h2>
-    <div class="dropdown filter">
-      <button class="dropdown-toggle hidden-arrow btn btn-warning dropdown-toggle rounded-pill" role="button"
-        type="button" id="navbarDropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
-        <img id="drop" src="../../assets/filter.png" />
-      </button>
-      <ul class="dropdown-menu dropdown-menu-left w-75 overflow-scroll" aria-labelledby="navbarDropdownMenuLink">
-        <div *ngFor="let associazione of associazioni">
-        <li><a class="dropdown-item d-inline-block p-1 text-wrap" href="#"> {{ associazione.Title}} </a></li>
-      </div>
-      </ul>
-    </div>
+    
   </div>
   <div class="corso row mt-2">
     <div class="col-md-4" *ngFor="let iniziativa of iniziative">
