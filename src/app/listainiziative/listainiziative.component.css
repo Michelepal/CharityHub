@@ -119,9 +119,17 @@ a:active {
 }
 
 .titolo {
-    font-size: 80%;
     margin-bottom: 0;
 }
+
+.titolopagina {
+  color: #0472b3;
+}
+
+.col-4, .col-8 {
+  padding-right: 0;
+}
+
 
 @media only screen and (max-width: 576px) {
 
