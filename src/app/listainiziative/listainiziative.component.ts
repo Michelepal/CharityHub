@@ -18,5 +18,8 @@ export class ListainiziativeComponent  {
     this.http.get<Iniziative[]>(environment.baseUrl + '/iniziative').subscribe(data => this.iniziative = data);
   }
 
+  filtroIniziative(filtro: string) {
+
+  }
 
 }

@@ -1,11 +1,37 @@
 <div class="pagina">
   <div id="sopra" class="bg">
   </div>
-  <div class="container sotto d-flex justify-content-around justify-content-md-center mt-3 mb-5">
+ <!--  <div class="container sotto d-flex justify-content-around justify-content-md-center mt-3 mb-5">
     
     <h2 class="ini">Iniziative In Corso</h2>
     
+  </div> -->
+  <div class="row my-2">
+    <div class="col-2"></div>
+    <div class="col-8">
+        <div class="titolo row w-100">
+          <div class="col-7">
+          <h2 class="titolo-associazioni text-dark float-end">Iniziative</h2>
+        </div>
+        <div class="col-5">
+          <div class="dropdown float-end">
+            <button class="btn btn-secondary btn-lg dropdown-toggle" type="button" id="dropdownMenuButton"
+              data-bs-toggle="dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
+              style="background-color: #0472b3;">
+              Filtra per regione
+            </button>
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+              <div *ngFor="let iniziativa of iniziative;let i=index;">
+                <a (click)="filtroIniziative(iniziativa.reg);" class="dropdown-item"
+                  >{{iniziativa.reg}} </a>
+              </div>
+            </div>
+          </div>
+          </div>
+    </div>
+    <div class="col-2"></div>
   </div>
+ 
   <div class="corso row mt-2">
     <div class="col-md-4" *ngFor="let iniziativa of iniziative">
       <div class="card mb-3" >
