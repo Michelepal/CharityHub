@@ -21,7 +21,8 @@
 }
 
 p {
-  font-size: 1vmin;
+  height: 80%;
+  font-size: 90%;
   margin-bottom: 0;
 }
 
@@ -51,7 +52,7 @@ p {
 div.card {
  /*  max-width: fit-content;
   height: fit-content; */
-  height: 30vw;
+  min-height: 30vw;
   width: auto;
   white-space: normal;
   border-radius: 30px;
@@ -64,11 +65,11 @@ div.card {
 
 div.cardcontainer {
   width: auto;
-  min-height: 100%;
+  height: 80vh;
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 16px;
+  gap: 2vh;
   font-size: 80%;
 
 }
