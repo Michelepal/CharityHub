@@ -6,51 +6,15 @@
         <h2>Iniziative recenti</h2>
       </div>
       <div class="iniziativeContainer row ">
-        <div class="col-md-4 pl-0">
+        <div class="col-md-4 pl-0" *ngFor="let iniziativa of iniziative;let i=index;">
           <div class="card">
-            <img src="..\..\assets\iniziativePlaceholder1.jpg">
-            <h1>Placeholder :)</h1>
+            <img src="{{iniziativa.img}}">
+            <h1>{{iniziativa.associazione}}</h1>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-              Cras vitae fermentum sapien, sit amet congue erat.
-              Etiam tincidunt a diam a viverra.
-              Donec convallis scelerisque ex, ac faucibus ante lobortis tincidunt.
-              Proin congue nisl et justo tincidunt lacinia.
+              {{iniziativa.value}}
             </p>
             <button>
-              Scopri
-            </button>
-          </div>
-        </div>
-        <div class="col-md-4">
-          <div class="card">
-            <img src="..\..\assets\iniziativePlaceholder1.jpg">
-            <h1>Placeholder :)</h1>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-              Cras vitae fermentum sapien, sit amet congue erat.
-              Etiam tincidunt a diam a viverra.
-              Donec convallis scelerisque ex, ac faucibus ante lobortis tincidunt.
-              Proin congue nisl et justo tincidunt lacinia.
-            </p>
-            <button>
-              Scopri
-            </button>
-          </div>
-        </div>
-        <div class="col-md-4 pr-0">
-          <div class="card">
-            <img src="..\..\assets\iniziativePlaceholder1.jpg">
-            <h1>Placeholder :)</h1>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-              Cras vitae fermentum sapien, sit amet congue erat.
-              Etiam tincidunt a diam a viverra.
-              Donec convallis scelerisque ex, ac faucibus ante lobortis tincidunt.
-              Proin congue nisl et justo tincidunt lacinia.
-            </p>
-            <button>
-              Scopri
+              <a href="{{iniziativa.url}}">Scopri</a>
             </button>
           </div>
         </div>

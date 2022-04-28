@@ -19,13 +19,18 @@
   background-color: #0472b3;
   border-radius: 40px;
   text-align: center;
-  width: 100%;
-  height: fit-content;
+  min-width: 100%;
+  max-height: fit-content;
   font-size: 60%;
 }
 
 .card h1 {
-  font-size: 20%;
+  font-size: 100%;
+}
+
+.card p {
+  height: 60%;
+  font-size: 1vw;
 }
 
 .card img {
