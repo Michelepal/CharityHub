@@ -15,13 +15,20 @@
   color: black;
 }
 
-.btn {
-  border-radius: 80%;
+ h2 {
+
+  font-size: 3vw;
 }
 
-.sotto h2 {
+p {
+  font-size: 1vmin;
+  margin-bottom: 0;
+}
 
-  font-size: 6vmin;
+#dropdownMenuButton {
+  width: 20vw;
+  font-size: 1.8vw;
+  padding: 5px;
 }
 
 #filter,
@@ -112,6 +119,7 @@ a:active {
 
 .titolo {
     font-size: 80%;
+    margin-bottom: 0;
 }
 
 @media only screen and (max-width: 576px) {

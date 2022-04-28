@@ -186,12 +186,6 @@
         }
     ],
     "iniziative": [
-        {
-            "__INIZI-INIZIATIVE__": "INIZIO INIZIATIVE",
-            "id": "1i",
-            "value": "sono iniziativa",
-            "url": ""
-        },
         {   
             "_INIZI-INIZIATIVE__": "in Corso",
             "id": "2i",
