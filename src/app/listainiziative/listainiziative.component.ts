@@ -23,7 +23,7 @@ export class ListainiziativeComponent  {
   }
 
   filtroIniziative(filtro: string) {
-    const baseUrl = environment.baseUrl + '/iniziative';
+    const baseUrl = environment.baseUrl + '/iniziative/';
     this.http.get<Iniziative[]>(`${baseUrl}?reg=${filtro}`).subscribe(data => this.iniziative = data);
 
   }
