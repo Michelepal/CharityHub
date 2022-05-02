@@ -8,7 +8,7 @@
 .titolo {
   padding: 10px;
   text-align: center;
-  font-size: 10vmin;
+  /* font-size: 10vmin; */
   color: #0472b3;
   font-weight: 700;
 }
@@ -21,7 +21,8 @@
   text-align: center;
   min-width: 100%;
   max-height: fit-content;
-  font-size: 60%;
+  font-size: 3.5vw;
+
 }
 
 .card h1 {
@@ -30,7 +31,7 @@
 
 .card p {
   height: 60%;
-  font-size: 1vw;
+  font-size: 1em;
 }
 
 .card img {
@@ -47,7 +48,7 @@
 
 .card button {
   color: black;
-  font-size: 1vw;
+  font-size: 1em;
   font-weight: 600;
   width: 50%;
   height: auto;
