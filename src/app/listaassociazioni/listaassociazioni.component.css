@@ -16,6 +16,11 @@
     margin: 3vh 0vw;
 }
 
+img {
+    max-height: 30vh;
+
+}
+
 .titolo-associazioni {
     font-size: 3vw;
     color: #0472b3;
