@@ -2,7 +2,7 @@
   <div id="sopra" class="bg">
   </div>
 
-  <div class="row my-2 w-100">
+  <div class="row my-2 mx-0 w-100">
     <div class="col-2"></div>
     <div class="col-8">
         <div class="row w-100 align-items-center">
@@ -28,10 +28,10 @@
     <div class="col-2"></div>
   </div>
  
-  <div class="corso row mt-2 justify-content-center">
-    <div class="col-12" *ngFor="let iniziativa of iniziative">
+  <div class="corso row mt-2 w-100 mx-0">
+    <div class="col-12 col-md-8" *ngFor="let iniziativa of iniziative">
       <div class="card mb-3" >
-        <div class="cardcontainer text-center my-auto h-100 align-content-baseline" >
+        <div class="cardcontainer text-center text-white my-auto h-100 align-content-baseline" >
           <img class="img-fluid w-25 mx-auto" src="{{iniziativa.img}}">
           <a href="{{iniziativa.url}}">
             <h2 class="titolo">{{iniziativa.associazione}}</h2>
