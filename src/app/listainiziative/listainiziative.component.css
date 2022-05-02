@@ -9,150 +9,38 @@
   margin-top: -90px;
 }
 
-.ini {
-  display: flex;
-  position: absolute;
-  color: black;
-}
 
- h2 {
-
-  font-size: 3vw;
-}
-
-p {
-  height: 80%;
-  font-size: 100%;
-  margin-bottom: 0;
-}
-
-#dropdownMenuButton {
-  width: 20vw;
-  font-size: 1.8vw;
-  padding: 5px;
-}
-
-#filter,
-#drop {
-  width: 4vw;
-  height: auto;
-}
-
-.filter {
-  margin-left: 50%;
-}
-
-.scad {
-  display: flex;
-  position: absolute;
-  margin-top: 45%;
-  margin-left: 20%;
-}
-
-div.card {
- /*  max-width: fit-content;
-  height: fit-content; */
-  min-height: 30vw;
-  width: auto;
-  white-space: normal;
-  border-radius: 30px;
-  padding-top: 2vh;
-  color: black;
-  padding: 5px;
-  background-color: #0472b3;
-  text-align: left;
-}
-
-div.cardcontainer {
-  width: auto;
-  height: 80vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 2vh;
-  font-size: 80%;
-
-}
-
-div.card>img {
-  border-radius: 30px;
-}
-
-.corso {
-  display: flex;
-  justify-content: center;
-  min-width: 100%;
-  
-
-}
-
-.scadute {
-  display: flex;
-  position: row;
-  margin-top: 50%;
-  margin-right: 0;
-
-}
-
-.cardcontainer button {
-  background-color: #ffd500;
-  width: 90%;
-  
-}
-
-a,
-a:hover,
-a:focus,
-a:active {
-  text-decoration: none;
-  color: inherit;
-  font-size: 80%;
-}
-
-.pagina {
-  background-color: whitesmoke;
-}
-
-.dropdown-menu {
-  max-height: 500px;
-  font-size: 80%;
+.associazioni {
+  height: 100vh;
+  max-width: 100%;
+  background-image: url(../../assets/cover-associazioni.png);
+  /* cambiare l'immagine*/
+  background-position: center;
+  background-size: cover;
+  margin-top: -90px;
 
 }
 
 .titolo {
-    margin-bottom: 0;
+  display: flex;
+  justify-content: space-between;
+  margin: 3vh 0vw;
 }
 
-.titolopagina {
+img {
+  max-height: 30vh;
+
+}
+
+.titolo-associazioni {
+  font-size: 5vmin;
   color: #0472b3;
 }
 
-.col-4, .col-8 {
-  padding-right: 0;
-}
-
-
-@media only screen and (max-width: 576px) {
-
-  div.card {
-    /*  max-width: fit-content;
-     height: fit-content; */
-     height: initial;
-     width: auto;
-   }
-   
-   div.cardcontainer {
-     width: auto;
-     min-height: fit-content;
-     font-size: 80%;
-   
-   }
-
-
-  .cardcontainer>button {
-    background-color: #ffd500;
-    width: 90%;
-    margin: auto;
-  }
-  
+.scopri {
+  text-decoration: none;
+  color: black;
+  background-color: #ffd500;
+  padding: 10px 20px;
+  border-radius: 20px;
 }

@@ -1,16 +1,16 @@
-<div class="pagina">
+<div class="container-fluid px-0">
   <div id="sopra" class="bg">
-  </div>
 
-  <div class="row my-2 mx-0 w-100">
-    <div class="col-2"></div>
-    <div class="col-8">
-        <div class="row w-100 align-items-center">
-          <div class="col-8">
-          <h1 class="titolopagina mb-0">Iniziative</h1>
-        </div>
-        <div class="col-4">
-          <div class="dropdown float-end">
+  </div>
+</div>
+<div class="container-fluid">
+  <div class="row bg-white">
+    <div class="col-md-2 d-none d-md-block"></div>
+    <div class="col-12 col-md-8">
+      <section>
+        <div class="titolo d-flex align-items-baseline">
+          <h3 class="titolo-associazioni">INIZIATIVE</h3>
+          <div class="dropdown">
             <button class="btn btn-secondary btn-lg dropdown-toggle" type="button" id="dropdownMenuButton"
               data-bs-toggle="dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
               style="background-color: #0472b3;">
@@ -18,27 +18,33 @@
             </button>
             <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
               <div *ngFor="let regione of regioni;let i=index;">
-                <a (click)="filtroIniziative(regione.value);" class="dropdown-item"
-                  >{{regione.value}} </a>
+                <a (click)="filtroIniziative(regione.nome);" class="dropdown-item"
+                  >{{regione.nome}} </a>
               </div>
             </div>
           </div>
-          </div>
-    </div>
-    <div class="col-2"></div>
-  </div>
- 
-  <div class="corso row mt-2 w-100 mx-0">
-    <div class="col-12 col-md-8" *ngFor="let iniziativa of iniziative">
-      <div class="card mb-3" >
-        <div class="cardcontainer text-center text-white my-auto h-100 align-content-baseline" >
-          <img class="img-fluid w-25 mx-auto" src="{{iniziativa.img}}">
-          <a href="{{iniziativa.url}}">
-            <h2 class="titolo">{{iniziativa.associazione}}</h2>
-          </a>
-          <p>{{iniziativa.value}}</p>
-          <button class="rounded-pill w-75"><a class="mail" href="{{iniziativa.url}}">scopri</a></button>
+
         </div>
-      </div>
+        <div class="bg-white" *ngFor="let iniziativa of iniziative;let i=index;">
+          <div class="card mb-5"
+            style="background-color: #0472b3; color: white; border-radius: 20px;">
+            <div class="row g-0 d-flex justify-content-center h-75">
+              <div class="col-md-4 d-flex justify-content-center h-75">
+                <img src="{{iniziativa.img}}" class="img-fluid px-3 pt-3 pb-3" alt="..."
+                  style="border-radius: 30px;">
+              </div>
+              <div class="col-12">
+                <div class="card-body text-center">
+                  <h5 class="card-title">{{iniziativa.associazione}}</h5>
+                  <p class="card-text">{{iniziativa["value"]}}</p>
+                  <p class="card-text"><a href="{{iniziativa.url}}" target="_blank" class="scopri">Scopri</a></p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
     </div>
+    <div class="col-md-2 d-none d-md-block"></div>
   </div>
+</div>
