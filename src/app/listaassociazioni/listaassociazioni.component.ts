@@ -24,7 +24,7 @@ export class ListaassociazioniComponent {
   }
   
   filtroAssociazioni(value: any) {
-    const url = environment.baseUrl + '/associazioni'
+    const url = environment.baseUrl + '/associazioni/'
     let filtro = value.value;
     this.httpClient.get<Association[]>(`${url}?reg=${filtro}`).subscribe(data=>this.associations=data);
   }
