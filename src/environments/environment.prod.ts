@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  baseUrl: 'https://api.npoint.io/1b3f6db9029efc4770c0'
+  baseUrl: 'https://api.npoint.io/bd8cbb22769d1e475d05'
 };

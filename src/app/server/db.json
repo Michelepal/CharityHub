@@ -5,7 +5,7 @@
             "value": "La Croce Rossa propone e sostiene attività volte a proteggere e promuovere la salute, intesa come stato di completo benessere fisico e mentale e nel rispetto delle diversità tra ogni persona.",
             "reg": "Lazio",
             "Title": "Croce Rossa Italiana",
-            "img": "../../assets/associazioni/crocerossa.png",
+            "img": "assets/associazioni/crocerossa.png",
             "url": "https://cri.it/"
         },
         {
@@ -13,7 +13,7 @@
             "value": "L'Ordine dei Frati Minori, fondato da san Francesco d'Assisi, è una Fraternita. I Frati, portando a compimento la loro consacrazione battesimale e rispondendo alla divina chiamata, si abbandonano totalmente a Dio sommamente amato, con la professione di obbedienza, povertà e castità, da vivere secondo lo spirito di san Francesco.",
             "reg": "Lazio",
             "Title": "Fondazione OFM Fraternitas",
-            "img": "../../assets/associazioni/fondazioneofm.png",
+            "img": "assets/associazioni/fondazioneofm.png",
             "url": "https://ofmfraternitas.org/"
         },
         {
@@ -21,7 +21,7 @@
             "value": "La Fondazione dei Frati Minori Cappuccini raccoglie fondi e vive la carità con lo stile francescano. Reciprocità nella solidarietà e promozione umana.",
             "reg": "Umbria",
             "Title": "Fondazione Assisi Missio",
-            "img": "../../assets/associazioni/fondazioneassisi.jfif",
+            "img": "assets/associazioni/fondazioneassisi.jfif",
             "url": "https://www.assisimissio.org/"
         },
         {
@@ -29,7 +29,7 @@
             "Title": "Sermig - Arsenale della Pace",
             "value": "Il Sermig - Servizio Missionario Giovani - è nato nel 1964 da un'intuizione di Ernesto Olivero e da un sogno condiviso con molti: sconfiggere la fame con opere di giustizia e di sviluppo, vivere la solidarietà verso i più poveri e dare una speciale attenzione ai giovani cercando insieme a loro le vie della pace.",
             "reg": "Piemonte",
-            "img": "../../assets/associazioni/sermig.jpg",
+            "img": "assets/associazioni/sermig.jpg",
             "url": "https://www.sermig.org/arsenali/arsenale-della-pace.html"
         },
         {
@@ -37,7 +37,7 @@
             "Title": "Oxfam Italia",
             "value": "Oxfam Italia, che ha aderito nel 2010 all'organizzazione Oxfam, è una confederazione internazionale di organizzazioni non profit che si dedicano alla riduzione della povertà globale, attraverso aiuti umanitari e progetti di sviluppo.",
             "reg": "Toscana",
-            "img": "../../assets/associazioni/oxfam3.png",
+            "img": "assets/associazioni/oxfam3.png",
             "url": "https://www.oxfamitalia.org/donations/salviamo-vite-nelle-emergenze/"
         },
         {
@@ -45,7 +45,7 @@
             "Title": "Sant'Antonio di Padova",
             "value": "Le nostre comunità di frati presenti in Ucraina, Polonia e Romania sono impegnate a dare rifugio e portare aiuti umanitari alle persone in fuga dal conflitto con la Russia, ad aiutare intere famiglie duramente colpite dalla violenza della guerra.",
             "reg": "Veneto",
-            "img": "../../assets/associazioni/stantoniopadova.jpg",
+            "img": "assets/associazioni/stantoniopadova.jpg",
             "url": "https://www.santantonio.org/it"
         },
         {
@@ -53,7 +53,7 @@
             "Title": "IBO Italia - Associazione Italiana Soci Costruttori onlus",
             "value": "Impegnata da 60 anni nella cooperazione e nel volontariato. Negli ultimi anni ha coinvolto oltre 5.000 giovani volontari e 190.000 beneficiari.Sostieni i civili colpiti dalla guerra attraverso l'invio di materiali, dando la tua diponibilità ad ospitare o facendo una donazione per l'Ucraina.",
             "reg": "Emilia Romagna",
-            "img": "../../assets/associazioni/iboitalia.jpg",
+            "img": "assets/associazioni/iboitalia.jpg",
             "url": "https://iboitalia.org/"
         },
         {
@@ -61,7 +61,7 @@
             "Title": "A Casa Lontani da Casa ODV",
             "value": "L'associazione promuove l'accoglienza di malati e dei loro famigliari che hanno necessità di spostarsi per ragioni di salute nelle grandi città. La rete di A Casa Lontani Da Casa si è già messa all'opera, non solo per l'accoglienza ma anche per coprire le necessità di cui le famiglie possono avere bisogno all'arrivo.",
             "reg": "Lombardia",
-            "img": "../../assets/associazioni/ACLDC-logo-2021.png",
+            "img": "assets/associazioni/ACLDC-logo-2021.png",
             "url": "https://acasalontanidacasa.it/"
         },
         {
@@ -69,7 +69,7 @@
             "Title": "Cesvi",
             "value": "Cesvi è una storica ong italiana, intervenuta al fianco di People in need ai confini con la Slovacchia.",
             "reg": "Lombardia",
-            "img": "../../assets/associazioni/cesvi.png",
+            "img": "assets/associazioni/cesvi.png",
             "url": "https://www.cesvi.org/"
         },
         {
@@ -77,7 +77,7 @@
             "Title": "Aibi è Amici dei Bambini",
             "value": "Aibi opera nel Paese dal 1999 attraverso la Fondazione di beneficenza ucraina Drusie Ditiei Ukraina, la cui sede è a Kiev",
             "reg": "Lombardia",
-            "img": "../../assets/associazioni/ACLDC-logo-2021.png",
+            "img": "assets/associazioni/ACLDC-logo-2021.png",
             "url": "https://www.aibi.it/ita/"
         },
         {
@@ -85,7 +85,7 @@
             "Title": "Soleterre",
             "value": "Soleterre, assieme all'Associazione ucraina Zaporuka, ha messo a disposizione la sua casa per i bambini malati di cancro e per assicurare loro la continuità delle cure mediche, chemio comprese.",
             "reg": "Lombardia",
-            "img": "../../assets/associazioni/soleterre.png",
+            "img": "assets/associazioni/soleterre.png",
             "url": "https://soleterre.org/"
         },
         {
@@ -93,7 +93,7 @@
             "Title": "Avsi",
             "value": "Avsi, grazie alla collaborazione con l'associazione ucraina Emmaus, suo partner locale, ha mantenuto un rapporto di vicinanza con l'Ucraina nel tempo.",
             "reg": "Lombardia",
-            "img": "../../assets/associazioni/avsi.jpg",
+            "img": "assets/associazioni/avsi.jpg",
             "url": "https://www.avsi.org/it/"
         },
         {
@@ -101,7 +101,7 @@
             "Title": "Action Aid  Italia",
             "value": "Action Aid è al fianco delle donne e dei bambini in fuga dall'Ucraina. Un esodo che coinvolge un milione di persone attraverso le frontiere ",
             "reg": "Lombardia",
-            "img": "../../assets/associazioni/actionaid.png",
+            "img": "assets/associazioni/actionaid.png",
             "url": "https://adozioneadistanza.actionaid.it/"
         },
         {
@@ -109,7 +109,7 @@
             "Title": "We World Italia",
             "value": "We World, organizzazione che da 50 anni difende i diritti di donne e bambini in Italia e nel Mondo e che adotta bambini a distanza.",
             "reg": "Lombardia",
-            "img": "../../assets/associazioni/weworld.jpg",
+            "img": "assets/associazioni/weworld.jpg",
             "url": "https://www.weworld.it/"
         },
         {
@@ -117,7 +117,7 @@
             "Title": "Progetto Arca",
             "value": "Una delegazione di Progetto Arca, che opera nel settore dell'accoglienza, con Uneba è partita da Milano con un convoglio carico di beni di prima necessità.",
             "reg": "Lombardia",
-            "img": "../../assets/associazioni/arca.png",
+            "img": "assets/associazioni/arca.png",
             "url": "https://www.progettoarca.org/"
         },
         {
@@ -125,7 +125,7 @@
             "Title": "Intersos",
             "value": "Intersos, i cui operatori ora si trovano Moldavia, ma anche in Polonia, fornisce assistenza medica e protezione ai rifugiati provenienti dall'Ucraina.",
             "reg": "Lazio",
-            "img": "../../assets/associazioni/intersos.jpg",
+            "img": "assets/associazioni/intersos.jpg",
             "url": "https://www.intersos.org/"
         },
         {
@@ -133,7 +133,7 @@
             "Title": "Save the Children",
             "value": "Save the Children opera in Ucraina dal 2014, fornendo aiuti umanitari essenziali ai bambini e alle loro famiglie. Ciò include sostenere il loro accesso all'istruzione, fornire supporto psicosociale",
             "reg": "Lazio",
-            "img": "../../assets/associazioni/save-the-children-logo.jpg",
+            "img": "assets/associazioni/save-the-children-logo.jpg",
             "url": "https://www.savethechildren.it/"
         },
         {
@@ -141,7 +141,7 @@
             "Title": "Terre des Hommes",
             "value": "La Federazione Internazionale Terre des Hommes lavora in Ucraina, in particolare nell'area orientale del Paese.",
             "reg": "Lombardia",
-            "img": "../../assets/associazioni/terradeshommes.jpg",
+            "img": "assets/associazioni/terradeshommes.jpg",
             "url": "https://terredeshommes.it/"
         },
         {
@@ -149,7 +149,7 @@
             "Title": "Medici del Mondo",
             "value": "Medici del Mondo è un'organizzazione umanitaria internazionale presente anche in Italia per garantire l'accesso alle cure a tutti, specialmente alle persone più vulnerabili.",
             "reg": "Lazio",
-            "img": "../../assets/associazioni/medicidelmondo.jpg",
+            "img": "assets/associazioni/medicidelmondo.jpg",
             "url": "https://medicidelmondo.it/"
         },
         {
@@ -157,7 +157,7 @@
             "Title": "Movimento Internazionale per la PACE e la Salvaguardia del Creato - III Millennio",
             "value": "Associazione di Volontariato ONLUS della Provincia di Caserta, Regione Campania (Italia). Associaz. di volontariato laico, apartitico, di impegno sociale e civile, per i diritti dei cittadini, delle fasce disagiate e le Pari Opportunità, la difesa dell' ambiente e dei Beni Comuni.",
             "reg": "Campania",
-            "img": "../../assets/associazioni/movimentoambasciatoripace.jpg",
+            "img": "assets/associazioni/movimentoambasciatoripace.jpg",
             "url": "https://www.facebook.com/movimentoperlapace3millennio/"
         },
         {
@@ -165,7 +165,7 @@
             "Title": "Solidarietà senza confini",
             "value": "Solidarietà Senza Confini è un'associazione molisana di volontariato, costituita nel 1995, che ha come scopo quello d realizzare progetti umanitari e scambi culturali con Paesi non appartenenti all'Unione Europea.",
             "reg": "Molise",
-            "img": "../../assets/associazioni/solidarietasenzaconfini.jfif",
+            "img": "assets/associazioni/solidarietasenzaconfini.jfif",
             "url": "https://www.solidarietasenzaconfini.it/"
         },
         {
@@ -173,7 +173,7 @@
             "Title": "Fondazione Megamark",
             "value": "Siamo la onlus del gruppo Megamark  costituita nel 2000, nel 2012 abbiamo promosso u n bando di concorso 'Orizzonti Solidalià' destinato alle associazioni, le onlus e le cooperative sociali attive nel terzo settore pugliese con lo scopo di finanziare progetti di assistenza, sanità, tutela dell'ambiente e valorizzazione della cultura da svolgersi in Puglia a favore dei più bisognosi.",
             "reg": "Puglia",
-            "img": "../../assets/associazioni/fondazionemegamark.png",
+            "img": "assets/associazioni/fondazionemegamark.png",
             "url": "https://fondazionemegamark.it/"
         },
         {
@@ -181,7 +181,7 @@
             "Title": "UNICEF",
             "value": "L'UNICEF è il Fondo delle Nazioni Unite per l'Infanzia. La missione principale dell'UNICEF è quella di contribuire alla sopravvivenza, alla protezione e allo sviluppo delle potenzialità di ogni bambino e bambina, con speciale cura per quelli più fragili e vulnerabili.",
             "reg": " ",
-            "img": "../../assets/associazioni/unicef.png",
+            "img": "assets/associazioni/unicef.png",
             "url": "https://www.unicef.it/"
         }
     ],
@@ -192,7 +192,7 @@
             "value": "La Croce Rossa Italiana ha lanciato immediatamente una raccolta fondi per finanziare le attività in sostegno della popolazione civile e la gestione degli sfollati presenti in Ucraina e quelli che cercano riparo nelle nazioni confinanti. Fondi necessari per rispondere sia ai bisogni umanitari di chi è rimasto in Ucraina sia dei profughi che cercano asilo oltre confine. ",
             "reg": "Lazio",
             "associazione": "Croce Rossa Italiana",
-            "img": "../../assets/associazioni/crocerossa.png",
+            "img": "assets/associazioni/crocerossa.png",
             "url": "https://cri.it/"
         },
         {   
@@ -201,7 +201,7 @@
             "value": "Intervento nei Paesi che stanno accogliendo le persone in fuga per garantire loro cibo, acqua e kit igienici. Allestimento spazi sicuri per prevenire episodi di violenza e fornire supporto psicologico. Contemporaneamente, in Italia, sostegno alle persone di nazionalità ucraina che vivono e lavorano qui. Raccolta fondi: https://bit.ly/3Cm2ctC",         
             "reg": "Lombardia",
             "associazione": "ACTION AID Presente nei Paesi limitrofi tramite partner",
-            "img": "../../assets/iniziative/3i.png",
+            "img": "assets/iniziative/3i.png",
             "url": "https://donaora.actionaid.it/emergenzaucraina/~mia-donazione?ns_ira_cr_arg=IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyN88Ck9KRdeEezk8nqhxd%2B8HURqoVu6VUJmM6bzA0TC446%2BxQFBggGsv6I5J4VMxbjRsmxApdnSs/iWo4GwbBuaobjBp591FzqTxZpRmLOrnP5Vo5nwwaIxszqIjQs1lxA%3D&mnuid=1a31g5fe6ag76324f97fda1f9725898ad974ba88650aa6b014b&mnref=s1d50,o19a0c&_cv=1"
         },
         {   
@@ -210,7 +210,7 @@
             "value": " #BAMBINIxLAPACE. Iniziative di assistenza umanitaria rivolta ai bambini accolti negli istituti in Ucraina, alle famiglie in fuga dalla guerra che hanno trovato protezione nei campi profughi in Moldova e a minori orfani e nuclei monogenitoriali (mamma-bambino) in arrivo in Italia. Inoltre, approvvigionamenti di beni di prima necessità; supporto psico-sociale; attività di animazione; evacuazione di minori e famiglie dalle aree a maggior rischio. Raccolta fondi: https://www.aibi.it/ita/sostieni-aibi/donazione-libera/ ",      
             "reg": "Lombardia",
             "associazione": "AIBI, rete soci AOI Presente nel Paese",
-            "img": "../../assets/iniziative/4i.png",
+            "img": "assets/iniziative/4i.png",
             "url": "https://www.aibi.it/ita/sostieni-aibi/donazione-libera/"
         },
         {   
@@ -219,7 +219,7 @@
             "value": "Raccolta di beni alimentari e di prima necessità, indumenti o farmaci, promosse in collaborazione con altre associazioni o istituzioni locali: www.ancescao.it",
             "reg": "Emilia-Romagna",
             "associazione": "ANCeSCAO",
-            "img": "../../assets/iniziative/5i.png",
+            "img": "assets/iniziative/5i.png",
             "url": "http://www.ancescao.it"
         },
         {   
@@ -228,7 +228,7 @@
             "value": "Raccolta Fondi, accoglienza profughi, raccolta materiale www.anpas.org/categoria-news-generale/3839-raccoltafondi-ucraina.html  ",
             "reg": "Toscana",
             "associazione": "ANPAS",
-            "img": "../../assets/iniziative/6i.png",
+            "img": "assets/iniziative/6i.png",
             "url": "http://www.anpas.org/categoria-news-generale/3839-raccoltafondi-ucraina.html"
         },
         {   
@@ -237,7 +237,7 @@
             "value": "Raccolta fondi nazionale a favore di Intersos in aiuto ai profughi in fuga più vulnerabili: anziani e bambini; raccolta materiale nei territori (farmaci, prodotti per l’igiene, alimenti per l’infanzia, torce, pile, alimenti, vestiario, ecc); accoglienza profughi in Italia, accompagnamento, corsi di lingua italiana ",
             "reg": "Lazio",
             "associazione": "AUSER",
-            "img": "../../assets/iniziative/7i.png",
+            "img": "assets/iniziative/7i.png",
             "url": "http://www.auser.it"
         },
         {   
@@ -246,7 +246,7 @@
             "value": "Sostegno di emergenza per famiglie vulnerabili e sfollati interni in Ucraina a Leopoli e al confine con Polonia e Romania:  www.avsi.org/it/campaign/emergenza-ucraina-helpukraine/88 ",
             "reg": "Lombardia",
             "associazione": "AVSI Presente nel Paese",
-            "img": "../../assets/iniziative/8i.png",
+            "img": "assets/iniziative/8i.png",
             "url": "http://www.avsi.org/it/campaign/emergenza-ucraina-helpukraine/88"
         },
         {   
@@ -255,7 +255,7 @@
             "value": " Raccolta Fondi, e beni di prima necessità: www.cesvi.org/emergenzaucraina ",
             "reg": "Lombardia",
             "associazione": "Cesvi, Socio Link 2007",
-            "img": "../../assets/iniziative/9i.png",
+            "img": "assets/iniziative/9i.png",
             "url": "http://www.cesvi.org/emergenzaucraina"
         },
         {   
@@ -264,7 +264,7 @@
             "value": " Assistenze medica, chirurgia con clinica mobile, assistenza psicologica: www.emergenzasorrisi.it ",
             "reg": "Lazio",
             "associazione": "Emergenza Sorrisi, rete soci AOI",
-            "img": "../../assets/iniziative/10i.png",
+            "img": "assets/iniziative/10i.png",
             "url": "http://www.emergenzasorrisi.it"
         },
         {   
@@ -273,7 +273,7 @@
             "value": " Federavo ha eseguito una donazione a favore della casa di accoglienza per bambini profughi ucraini sita in Cracovia e gestita dai padri e dalle sorelle guanelliane; altre Avo associate a Federavo hanno aderito all’iniziativa; altre ancora stanno aderendo ad altre iniziative a sostegno della popolazione ucraina ",
             "reg": "Lombardia",
             "associazione": "Federavo",
-            "img": "../../assets/iniziative/11i.png",
+            "img": "assets/iniziative/11i.png",
             "url": "https://federavo.it/"
         },
         {   
@@ -281,7 +281,7 @@
             "id": "12i",
             "value": "Supporto alle Organizzazioni che svolgono servizio attività di accoglienza ai profughi mediante attività ludiche per bambini e adulti, da realizzarsi tramite le proprie associate come momenti di socialità e integrazione ma anche come strumento di mediazione culturale e apprendimento linguistico.",
             "associazione": "Federludo",
-            "img": "../../assets/iniziative/12i.png",
+            "img": "assets/iniziative/12i.png",
             "url": "www.federludo.it"
         },
         {   
@@ -290,7 +290,7 @@
             "value": "Raccolta di alimenti, medicinali, indumenti e varie in collaborazione con l’amministrazione comunale di Vallo della Lucania.",
             "reg": "Campania",
             "associazione": "FENALC",
-            "img": "../../assets/iniziative/13i.png",
+            "img": "assets/iniziative/13i.png",
             "url": "www.fenalc.it"
         },
         {   
@@ -299,7 +299,7 @@
             "value": "Raccolta di beni di prima necessità e apertura di un conto corrente dedicato tra i nostri circoli affiliati",
             "reg": "Emilia-Romagna",
             "associazione": "FITEL",
-            "img": "../../assets/iniziative/14i.png",
+            "img": "assets/iniziative/14i.png",
             "url": "www.fitel.it - www.fitelemiliaromagna.it"
         },
         {   
@@ -308,7 +308,7 @@
             "value": "Raccolta fondi per emergenza insieme alla Federazione Europea dei Banchi Alimentari per fornire aiuto e supporto alimentare immediato",
             "reg": "Lombardia",
             "associazione": "Fondazione Banco Alimentare ONLUS",
-            "img": "../../assets/iniziative/15i.png",
+            "img": "assets/iniziative/15i.png",
             "url": "www.bancoalimentare.it/it/news/comunicato-stampa-all-together-4-ukraine"
         },
         {   
@@ -317,7 +317,7 @@
             "value": "Distribuzione medicinali e sostegno",
             "reg": "Emilia-Romagna",
             "associazione": "IBO Italia, rete soci AOI e FOCSIV – Presente nel Paese",
-            "img": "../../assets/iniziative/16i.png",
+            "img": "assets/iniziative/16i.png",
             "url": "https://iboitalia.org/ibo-in-ucraina-la-nostra-richiesta-di-pace"
         },
         {   
@@ -326,7 +326,7 @@
             "value": "Raccolta fondi per i rifugiati, raccolta di farmaci",
             "reg": "Lazio",
             "associazione": "Misericordie",
-            "img": "../../assets/iniziative/17i.png",
+            "img": "assets/iniziative/17i.png",
             "url": "https://dona.unhcr.it/campagna/crisi-in-ucraina"
         },
         {   
@@ -335,7 +335,7 @@
             "value": "Raccolta medicinali e raccolta fondi in collaborazione con il Comitato 10 febbraio",
             "reg": "Lazio",
             "associazione": "Modavi",
-            "img": "../../assets/iniziative/18i.png",
+            "img": "assets/iniziative/18i.png",
             "url": "https://modavi.it/emergenza-ucraina"
         },
         {   
@@ -344,7 +344,7 @@
             "value": "Fornitura materiali prima assistenza sanitaria e vari",
             "reg": "Lazio",
             "associazione": "Progetto Sud, rete soci AOI",
-            "img": "../../assets/iniziative/19i.png",
+            "img": "assets/iniziative/19i.png",
             "url": "www.progettosud.org/it"
         },
         {   
@@ -353,7 +353,7 @@
             "value": "Da 18 anni in Ucraina. Cure oncologiche minori: Istituto del Cancro e Istituto di Neurochirurgia di Kiev, Ospedale Regionale di Lviv e Casa di Accoglienza per famiglie per lunghe terapie in day-hospital, attività socio-sanitarie sul territorio. Ora anche interventi di emergenza, di accompagnamento nello sfollamento, di spostamento anche i Italia di bambini sotto cura.",
             "reg": "Lombardia",
             "associazione": "Soleterre, Rete soci LINK 2007",
-            "img": "../../assets/iniziative/20i.png",
+            "img": "assets/iniziative/20i.png",
             "url": "https://soleterre.org/ucraina"
         },
         {   
@@ -362,7 +362,7 @@
             "value": "Raccolta fondi",
             "reg": "Lombardia",
             "associazione": "SOS Bambini, rete soci CINI – Presente nel Paese",
-            "img": "../../assets/iniziative/21i.png",
+            "img": "assets/iniziative/21i.png",
             "url": "www.sosbambini.it/news/emergenza-ucraina-dona-ora"
         },
         {   
@@ -371,7 +371,7 @@
             "value": "Raccolta fondi per materiale sanitario",
             "reg": "Lombardia",
             "associazione": "Terre des Hommes, rete soci AOI",
-            "img": "../../assets/iniziative/22i.png",
+            "img": "assets/iniziative/22i.png",
             "url": "https://emergenzabambini.terredeshommes.it/emergenza-ucraina"
         },
         {   
@@ -380,7 +380,7 @@
             "value": "Campagna di sensibilizzazione e comunicazione #SportAgainstWar promossa insieme ad Amnesty International Italia, Assist Associazione Nazionale Atlete, Sport4Society e Usigrai. Raccolte fondi e iniziative specifiche di sostegno alla popolazione ucraina a supporto di iniziative di organizzazioni della Rete AOI e di istituzioni locali",
             "reg": "Lazio",
             "associazione": "UISP APS",
-            "img": "../../assets/iniziative/23i.png",
+            "img": "assets/iniziative/23i.png",
             "url": "www.uisp.it"
         },
         {   
@@ -389,7 +389,7 @@
             "value": "Sensibilizzazione e comunicazione",
             "reg": "Lazio",
             "associazione": "UNEBA",
-            "img": "../../assets/iniziative/24i.png",
+            "img": "assets/iniziative/24i.png",
             "url": "www.uneba.org/tag/ucraina"
         },
         {   
@@ -398,7 +398,7 @@
             "value": "Accoglienza profughi – informazioni su trattamenti e terapie: www.uniamo.org Coordinamento delle iniziative messe in campo dalle Associazioni di singola patologia, per: 1) raccolta farmaci specifici e indirizzamento sui centri più idonei al trattamento 2) accoglienza famiglie 3) resource centre con informazioni verificate. https://uniamo.org/in-evidenza/ucraina-i-supporti-per-i-malati-rari/",
             "reg": "Lazio",
             "associazione": "UNIAMO Federazione Italiana Malattie Rare",
-            "img": "../../assets/iniziative/25i.png",
+            "img": "assets/iniziative/25i.png",
             "url": "www.uniamo.org"
         },
         {   
@@ -407,7 +407,7 @@
             "value": "Raccolta fondi",
             "reg": " ",
             "associazione": "Unicef",
-            "img": "../../assets/iniziative/26i.png",
+            "img": "assets/iniziative/26i.png",
             "url": "www.unicef.it/media/crisi-ucraina-la-rai-sostiene-la-campagna-di-raccolta-di-croce-rossa-italiana-unhcr-unicef"
         },
         {   
@@ -416,7 +416,7 @@
             "value": "Raccolta fondi",
             "reg": "",
             "associazione": "WeWorld, rete soci Link2007",
-            "img": "../../assets/iniziative/27i.png",
+            "img": "assets/iniziative/27i.png",
             "url": "www.weworld.it/sostienici/campagne/ucraina"
         },
         {   
@@ -425,7 +425,7 @@
             "value": "Raccolta fondi",
             "reg": "",
             "associazione": "Caritas italiana",
-            "img": "../../assets/iniziative/28i.png",
+            "img": "assets/iniziative/28i.png",
             "url": "www.caritas.it"
         },
         {   
@@ -434,7 +434,7 @@
             "value": "Raccolta fondi",
             "reg": "",
             "associazione": "Comunità di Sant’Egidio",
-            "img": "../../assets/iniziative/29i.png",
+            "img": "assets/iniziative/29i.png",
             "url": "https://dona.santegidio.org/iniziativa/ucraina/?o=63"
         },
         {   
@@ -443,7 +443,7 @@
             "value": "Raccolta fondi",
             "reg": "",
             "associazione": "Medici senza Frontiere",
-            "img": "../../assets/iniziative/30i.png",
+            "img": "assets/iniziative/30i.png",
             "url": "www.medicisenzafrontiere.it/landing/emergenza-ucraina"
         },
         {   
@@ -452,7 +452,7 @@
             "value": "Raccolta materiale",
             "reg": "",
             "associazione": "Servizi integrati sanità e sicurezza",
-            "img": "../../assets/iniziative/31i.png",
+            "img": "assets/iniziative/31i.png",
             "url": "www.cooperativasiss.it"
         },
         {   
@@ -461,7 +461,7 @@
             "value": "Raccolta fondi",
             "reg": "",
             "associazione": "SOS Villaggi dei bambini",
-            "img": "../../assets/iniziative/32i.png",
+            "img": "assets/iniziative/32i.png",
             "url": "www.sositalia.it/campaign/ucraina"
         },
         {   
@@ -470,7 +470,7 @@
             "value": "Raccolta medicinali, materiale sanitario e di primo soccorso",
             "reg": "",
             "associazione": "PEGASUS ASI PROCIV NAZIONALE",
-            "img": "../../assets/iniziative/33i.png",
+            "img": "assets/iniziative/33i.png",
             "url": "https://www.asiodv.it/donate/ "
         },
         {   
@@ -479,7 +479,7 @@
             "value": "Raccolta medicinali e alimenti a lunga conservazione",
             "reg": "Trentino-Alto Adige",
             "associazione": "INSIEME VERSO NUOVI ORIZZONTI ODV",
-            "img": "../../assets/iniziative/34i.png",
+            "img": "assets/iniziative/34i.png",
             "url": "https://trento.nuoviorizzonti.org/web/"
         },
         {   
@@ -488,7 +488,7 @@
             "value": "Raccolta generi di prima necessità e raccolta fondi da inviare a Soroca, in Moldavia, corridoio umanitario, in raccordo con Metropolia Moldava che attraverso le parrocchie organizza gli interventi di aiuto. I fondi sosterranno le iniziative di prima accoglienza, l’ospedale locale e le associazioni di volontariato.",
             "reg": "Lombardia",
             "associazione": "ACLI Prov. di Pavia",
-            "img": "../../assets/iniziative/35i.png",
+            "img": "assets/iniziative/35i.png",
             "url": "www.aclipavia.it"
         },
         {   
@@ -497,7 +497,7 @@
             "value": "Materiale sanitario, viveri. Disponibilità ad accogliere una mamma con figli in un piccolo appartamento",
             "reg": "Basilicata",
             "associazione": "Anffas – Policoro",
-            "img": "../../assets/iniziative/36i.png",
+            "img": "assets/iniziative/36i.png",
             "url": "www.anffaspolicoro.it"
         },
         {   
@@ -506,7 +506,7 @@
             "value": "Raccolta materiale accoglienza persone con disabilità",
             "reg": "Lombardia",
             "associazione": "Anffas – Pavia",
-            "img": "../../assets/iniziative/37i.png",
+            "img": "assets/iniziative/37i.png",
             "url": "http://www.anffaspavia.org/"
         },
         {   
@@ -515,7 +515,7 @@
             "value": "Raccolta materiale-Raccolta fondi",
             "reg": "Puglia",
             "associazione": "ARCI Comitato Valle D’Iria – Martina Franca – Crispiano",
-            "img": "../../assets/iniziative/38i.png",
+            "img": "assets/iniziative/38i.png",
             "url": "https://arcipuglia.it/circoli-arci-valle-ditria/"
         },
         {   
@@ -524,7 +524,7 @@
             "value": "Messa a disposizione di spazi e di volontari/e per la raccolta di beni di prima necessità per il popolo ucraino (farmaci, vestiti, alimenti) in collaborazione con la comunità ucraina e i Comuni del territorio.",
             "reg": "Toscana",
             "associazione": "ARCI Comitato territoriale e circoli della Valdera",
-            "img": "../../assets/iniziative/39i.png",
+            "img": "assets/iniziative/39i.png",
             "url": "www.arcivaldera.it"
         },
         {   
@@ -533,7 +533,7 @@
             "value": "– Promozione e partecipazione alle manifestazioni di piazza contro la guerra tenutesi a Empoli (FI) Il 24 febbraio (Piazza della Vittoria) e 25 febbraio (Piazza F. degli Uberti) – Promozione della partecipazione con un pullman da Empoli alla manifestazione nazionale per la pace di sabato 5 marzo a Roma – Partecipazione alla iniziativa pubblica contro la guerra organizzata dal PD di Empoli che si terrà lunedì 7 ore 18,00 al Circolo Arci di Avane – Empoli (FI) – In attesa di promuovere raccolta abiti e generi di prima necessità per profughi ucraini, non appena sarà a regime (a brevissimo) il centro di raccolta intercomunale, supervisionato dalla Protezione Civile",
             "reg": "Toscana",
             "associazione": "ARCI Comitato Empolese Valdelsa",
-            "img": "../../assets/iniziative/40i.png",
+            "img": "assets/iniziative/40i.png",
             "url": "www.arciempolesevaldelsa.it"
         },
         {   
@@ -542,7 +542,7 @@
             "value": "Accoglienza e raccolta materiali",
             "reg": "Puglia",
             "associazione": "ARCI Comitato Prov.le Foggia",
-            "img": "../../assets/iniziative/41i.png",
+            "img": "assets/iniziative/41i.png",
             "url": "http://www.arcifoggia.it/"
         },
         {   
@@ -551,7 +551,7 @@
             "value": "Raccolta di beni di prima necessità per supportare la popolazione ucraina",
             "reg": "Campania",
             "associazione": "ARCI Comitato Prov.le Napoli",
-            "img": "../../assets/iniziative/42i.png",
+            "img": "assets/iniziative/42i.png",
             "url": "http://www.arcinapolicomitato.it/"
         },
         {   
@@ -560,7 +560,7 @@
             "value": "In collaborazione con il comune di Suvereto, offriamo il nostro circolo come punto raccolta di beni di prima necessità. Raccolta fondi",
             "reg": "Toscana",
             "associazione": "ARCI San Lorenzo (LI)",
-            "img": "../../assets/iniziative/43i.png",
+            "img": "assets/iniziative/43i.png",
             "url": "https://www.facebook.com/Circolo-Arci-San-Lorenzo-103158198572314/"
         },
         {   
@@ -569,7 +569,7 @@
             "value": "Raccolta materiali",
             "reg": "Lazio",
             "associazione": "ARCI Civitavecchia",
-            "img": "../../assets/iniziative/44i.png",
+            "img": "assets/iniziative/44i.png",
             "url": "https://www.romapaese.it/risorsa/arci-civitavecchia/"
         },
         {   
@@ -578,7 +578,7 @@
             "value": "Raccolta materiale",
             "reg": "Friuli-Venezia Giulia",
             "associazione": "ARCI CRAL S. Vito al Tagliamento",
-            "img": "../../assets/iniziative/45i.png",
+            "img": "assets/iniziative/45i.png",
             "url": "https://www.facebook.com/arcicralciliti/"
         },
         {   
@@ -587,7 +587,7 @@
             "value": "Raccolta fondi da destinare a UNICEF e CRI Ucraina Raccolta materiale sanitario non medicinale per CRI Ucraina Campagna di messa a disposizione di appartamenti per profughi attraverso Ats della Valpadana (ad oggi 3 alloggi trovati)",
             "reg": "Lombardia",
             "associazione": "ARCI Mantova",
-            "img": "../../assets/iniziative/46i.png",
+            "img": "assets/iniziative/46i.png",
             "url": "https://www.arcimantova.com/"
         },
         {   
@@ -596,7 +596,7 @@
             "value": "Centro raccolta beni per ucraini",
             "reg": "Umbria",
             "associazione": "Assoutenti – Perugia",
-            "img": "../../assets/iniziative/47i.png",
+            "img": "assets/iniziative/47i.png",
             "url": "https://www.assoutenti.it/lo-sportello-al-cittadino-di-assoutenti-umbria/perugia/"
         },
         {   
@@ -605,7 +605,7 @@
             "value": "Raccolta fondi e materiali",
             "reg": "Toscana",
             "associazione": "Auser Montale (PT)",
-            "img": "../../assets/iniziative/48i.png",
+            "img": "assets/iniziative/48i.png",
             "url": "ausermontaleodv.it"
         },
         {   
@@ -614,7 +614,7 @@
             "value": "Raccolta viveri, fondi e indumenti",
             "reg": "Toscana",
             "associazione": "Auser – Siena",
-            "img": "../../assets/iniziative/49i.png",
+            "img": "assets/iniziative/49i.png",
             "url": "https://auser.siena.it/"
         },
         {   
@@ -623,7 +623,7 @@
             "value": "Raccolta fondi",
             "reg": "Molise",
             "associazione": "Auser Molise Aps",
-            "img": "../../assets/iniziative/50i.png",
+            "img": "assets/iniziative/50i.png",
             "url": "http://www.ausermolise.it/"
         },
         {   
@@ -632,7 +632,7 @@
             "value": "Raccolta derrate e alimentari e donazioni in denaro",
             "reg": "Molise",
             "associazione": "Auser Venafro (IS)",
-            "img": "../../assets/iniziative/51i.png",
+            "img": "assets/iniziative/51i.png",
             "url": ""
         },
         {   
@@ -641,7 +641,7 @@
             "value": "raccolta cibo di ogni genere, farmaci, materiale per l’igiene, capi d’abbigliamento nuovi",
             "reg": "",
             "associazione": "Auser",
-            "img": "../../assets/iniziative/52i.png",
+            "img": "assets/iniziative/52i.png",
             "url": "https://www.auser.it/"
         },
         {   
@@ -650,7 +650,7 @@
             "value": "Raccolta Fondi",
             "reg": "",
             "associazione": "Auser Jesi",
-            "img": "../../assets/iniziative/53i.png",
+            "img": "assets/iniziative/53i.png",
             "url": "https://www.auser.it/"
         },
         {   
@@ -659,7 +659,7 @@
             "value": "Promozione della cultura del dono e raccolta sangue con donazione del contributo derivante dalle convenzioni con le aziende sanitarie all’UNICEF e CARITAS per l’emergenza ucraina",
             "reg": "Basilicata",
             "associazione": "Fidas Basilicata",
-            "img": "../../assets/iniziative/54i.png",
+            "img": "assets/iniziative/54i.png",
             "url": "https://fidas.it/federate/basilicata/"
         },
         {   
@@ -668,7 +668,7 @@
             "value": "Apertura di due punti di raccolta farmaci, prodotti alimentari, abbigliamento per adulti e bambini, coperte e prodotti per la cura e l’igiene della persona nel comune di Corigliano Rossano (CS), a Bocchigliero(CS), Paludi(CS). Invio dei materiali ad un centro di smistamento ai confini polacchi dell’Ucraina. Accoglienza di eventuali gruppi di ucraini.",
             "reg": "Calabria",
             "associazione": "Forum Territoriale del Terzo Settore Ionio -Pollino",
-            "img": "../../assets/iniziative/55i.png",
+            "img": "assets/iniziative/55i.png",
             "url": "https://www.forumterzosettore.it/forum-nel-territorio/calabria/"
         },
         {   
@@ -677,7 +677,7 @@
             "value": "raccolta abbigliamento, viveri e beni di prima necessità",
             "reg": "Sardegna",
             "associazione": "Legambiente Terralba (OR)",
-            "img": "../../assets/iniziative/56i.png",
+            "img": "assets/iniziative/56i.png",
             "url": "www.facebook.com/SarrulloniLegambiente"
         },
         {   
@@ -686,7 +686,7 @@
             "value": "Raccolta fondi da destinare alla struttura di Flumini Quartu che accoglie i bambini ucraini",
             "reg": "Sardegna",
             "associazione": "Legambiente Sardegna",
-            "img": "../../assets/iniziative/57i.png",
+            "img": "assets/iniziative/57i.png",
             "url": "www.legambientesardegna.com/"
         },
         {   
@@ -695,7 +695,7 @@
             "value": "Raccolta fondi, Proposta accoglienza profughi nei centri storici, raccolta alimenti e vestiario",
             "reg": "Calabria",
             "associazione": "UNPLI Cosenza",
-            "img": "../../assets/iniziative/58i.png",
+            "img": "assets/iniziative/58i.png",
             "url": "www.unplics.it"
         },
         {   
@@ -704,7 +704,7 @@
             "value": "",
             "reg": "Sardegna",
             "associazione": "CSV Sardegna",
-            "img": "../../assets/iniziative/59i.png",
+            "img": "assets/iniziative/59i.png",
             "url": "www.csvsardegna.org/emergenza-ucraina"
         }
     ],
