@@ -1,12 +1,12 @@
 <section class="ultimeIniziative container-fluid">
   <div class="row">
-    <div class="col-2 d-none d-md-block"></div>
-    <div class="col-md-8">
+    <div class="col-2 d-none d-lg-block"></div>
+    <div class="col-lg-8">
       <div class="titolo text-uppercase">
         <h2>Iniziative recenti</h2>
       </div>
       <div class="iniziativeContainer row">
-        <div class="col-md-4 pl-0" *ngFor="let iniziativa of iniziative;let i=index;">
+        <div class="col-12 col-lg-4 col-lg-12 pl-0" *ngFor="let iniziativa of iniziative;let i=index;">
           <div class="card">
             <img src="{{iniziativa.img}}">
             <h1>{{iniziativa.associazione}}</h1>
@@ -20,7 +20,7 @@
         </div>
       </div>
     </div>
-    <div class="col-2 d-none d-md-block"></div>
+    <div class="col-2 d-none d-lg-block"></div>
   </div>
   
 </section>
