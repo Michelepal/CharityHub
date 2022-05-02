@@ -78,7 +78,8 @@ h2 {
 .whoRow {
     display: flex;
     justify-content: center;
-    gap: 30px
+    gap: 30px;
+    width: 100%;
 }
 
 .profile {
@@ -87,8 +88,9 @@ h2 {
     flex-direction: column;
     align-items: center;
     justify-content: space-between;
+    text-align: center;
     gap: 10px;
-    width: 400px;
+    width: 25%;
     padding: 20px;
     color: white;
     border-radius: 20px;
@@ -96,8 +98,8 @@ h2 {
 
 .profile img {
     border-radius: 100%;
-    width: 250px;
-    height: 250px;
+    width: 90%;
+    height: auto;
 }
 
 .profile h1 {
