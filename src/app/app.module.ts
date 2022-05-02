@@ -12,7 +12,6 @@ import { InfoComponent } from './info/info.component';
 import { FooterComponent } from './footer/footer.component';
 import { BannerComponent } from './home/componentihome/banner.component';
 import { IniziativeComponent } from './home/componentihome/iniziative.component';
-import { StorieComponent } from './home/componentihome/storie.component';
 import { AssociazioniComponent } from './home/componentihome/associazioni.component';
 import { FrecciagiuComponent } from './shared/frecciagiu.component';
 import { ListainiziativeComponent } from './listainiziative/listainiziative.component';
@@ -29,7 +28,6 @@ import { ListaassociazioniComponent } from './listaassociazioni/listaassociazion
     FooterComponent,
     BannerComponent,
     IniziativeComponent,
-    StorieComponent,
     AssociazioniComponent,
     FrecciagiuComponent,
     ListainiziativeComponent,
