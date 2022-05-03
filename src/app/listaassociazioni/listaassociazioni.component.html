@@ -18,7 +18,7 @@
             </button>
             <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
               <div *ngFor="let regione of regioni;let i=index;">
-                <a (click)="filtroAssociazioni(regione);" class="dropdown-item"
+                <a (click)="filtroAssociazioni(regione.nome);" class="dropdown-item"
                   >{{regione.nome}} </a>
               </div>
             </div>
