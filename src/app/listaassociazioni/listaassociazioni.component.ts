@@ -17,7 +17,7 @@ export class ListaassociazioniComponent {
   regioni: Regioni[] = [];
   constructor(private httpClient: HttpClient) {
 
-    this.httpClient.get<Association[]>('../assets/db.json').subscribe(data => {
+    this.httpClient.get<Association[]>(environment.baseUrl).subscribe(data => {
       this.datijson = data;
       this.associations = this.datijson.associazioni;
       this.regioni = this.datijson.regioni;

@@ -19,7 +19,7 @@ export class ListainiziativeComponent {
   constructor(private http: HttpClient) {
 
 
-    this.http.get<Association[]>('../assets/db.json').subscribe(data => {
+    this.http.get<Association[]>(environment.baseUrl).subscribe(data => {
       this.datijson = data;
       this.associazioni = this.datijson.associazioni;
       this.iniziative = this.datijson.iniziative;
