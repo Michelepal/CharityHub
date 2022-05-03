@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  baseUrl: 'assets/db.json'
+  baseUrl: 'assets/dblocale.json'
 };

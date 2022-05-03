@@ -16,7 +16,7 @@ export class IniziativeComponent {
       this.iniziative = data.slice(0, 3);
       console.log(this.iniziative); 
     });*/
-    this.http.get<Iniziative[]>('../assets/db.json').subscribe(data => {
+    this.http.get<Iniziative[]>(environment.baseUrl).subscribe(data => {
       this.datijson = data;
       this.iniziative = this.datijson.iniziative.slice(0,3);
     });
